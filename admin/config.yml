@@ -54,7 +54,7 @@ collections:
   # About Page content
   - name: "aboutPageContent"
     label: "AboutPage"
-    folder: "pages"
+    folder: "aboutPage"
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
@@ -65,7 +65,7 @@ collections:
   # Support Page content
   - name: "supportPageContent"
     label: "SupportPage"
-    folder: "pages"
+    folder: "supportPage"
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
@@ -76,7 +76,7 @@ collections:
   # Home Page content
   - name: "homePageContent"
     label: "HomePage"
-    folder: "pages"
+    folder: "homePage"
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
