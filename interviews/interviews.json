@@ -3,5 +3,6 @@
     "permalink": "interviews/{{ title | slug }}/index.html",
     "tags": [
       "interviews"
-    ]
+    ],
+    "title": "{{ title }}"
   }

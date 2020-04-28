@@ -190,9 +190,9 @@ button {
 	flex-flow: row wrap;
 }
 
-.post-container {
-	width: 200px;
-	height: 200px;
+.post-container > img{
+	width: auto;
+	height: 200px
 }
 
 @media screen and (min-width:768px) {

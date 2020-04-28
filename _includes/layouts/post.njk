@@ -4,7 +4,9 @@ section: post
 ---
 
 <article>
+  <img src="{{ headerImage }}"/>
   <h1>{{ title }}</h1>
+  <h2>{{ subject }}</h2>
   <p>
     <small>
       <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
