@@ -4,7 +4,7 @@ subject: John in Hell’s Kitchen, New York City
 permalink: /interviews/John-M
 date: 2015-01-01
 soundcloudLink: SomeLink.com
-tag: interviews
+tags: interviews
 ---
 
 
