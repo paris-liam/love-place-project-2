@@ -11,4 +11,4 @@ At the heart of this Project is an ongoing series of blog posts, each one based 
 
 AJ Golio is an incoming Sociology PhD student in the City, Culture, and Community program at Tulane University. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of both urban places and wilderness. Feel free to reach out at [agolio@tulane.edu](mailto:agolio@tulane.edu). 
 
-[Liam Paris](https://liamparis.com) created this website! forked from template by Dan Urbanowicz
+[Liam Paris](https://www.liamparis.com) created this website! forked from template by Dan Urbanowicz
