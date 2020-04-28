@@ -37,3 +37,50 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
+      
+  # Our blog posts
+  - name: "interviews" # Used in routes, e.g., /admin/collections/blog
+    label: "Interviews" # Used in the UI
+    folder: "interviews" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "ThumbnailImage", name: "thumbnailImage", widget: "image" }
+      - { label: "HeaderImage", name: "hederImage", widget: "image" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # About Page content
+  - name: "aboutPageContent"
+    label: "AboutPage"
+    folder: "pages"
+    create: false # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Support Page content
+  - name: "supportPageContent"
+    label: "SupportPage"
+    folder: "pages"
+    create: false # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  
+  # Home Page content
+  - name: "homePageContent"
+    label: "HomePage"
+    folder: "pages"
+    create: false # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  

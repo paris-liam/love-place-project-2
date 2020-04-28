@@ -1,10 +1,17 @@
 <nav>
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
-  {%- for entry in navPages %}
     <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+      <a href="/"{% if '/' == page.url %} data-current="current item"{% endif %}>Interviews</a>
     </li>
-  {%- endfor %}
+    <li>
+      <a href="/about"{% if '/about/' == page.url %} data-current="current item"{% endif %}>About</a>
+    </li>
+    <li>
+      <a href="/static/files/manifesto.pdf"{% if '/manifesto/' == page.url %} data-current="current item"{% endif %}>Manifesto</a>
+    </li>
+     <li>
+      <a href="/support"{% if '/support/' == page.url %} data-current="current item"{% endif %}>Support</a>
+    </li>
   </ul>
 </nav>
