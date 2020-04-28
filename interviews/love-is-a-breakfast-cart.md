@@ -1,7 +1,7 @@
 ---
 title: Place/Love is a Breakfast Cart
 subject: John in Hell’s Kitchen, New York City
-thumbnailImage: /static/img/john-m-photo.jpg
+image: /static/img/john-m-photo.jpg
 soundcloudLink: <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/775476772&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 date: 2015-01-01T00:00:00.000Z
 ---

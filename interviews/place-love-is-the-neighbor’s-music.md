@@ -1,8 +1,7 @@
 ---
 title: Place/Love is the Neighbor’s Music
 subject: Ava in Harlem, New York City
-thumbnailImage: /static/img/ava-photo.jpg
-headerImage: /static/img/ava-photo.jpg
+image: /static/img/ava-photo.jpg
 soundcloudLink: <iframe width="100%" height="100" scrolling="no"
   frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797829619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
