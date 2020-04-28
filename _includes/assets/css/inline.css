@@ -24,7 +24,6 @@ body {
 }
 
 main {
-	max-width: 37.5em;
 }
 
 p,
@@ -201,6 +200,11 @@ button {
 article.post-body > div{
 	text-align: center;
 }
+
+article.post-body > img {
+	width: 300px;
+}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;

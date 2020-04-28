@@ -7,14 +7,15 @@ section: post
   <img src="{{ headerImage }}"/>
   <h1>{{ title }}</h1>
   <h3>{{ subject }}</h3>
-  {{ soundcloudLink | safe }}
+
+  {{ layoutContent | safe }}
+
+    {{ soundcloudLink | safe }}
   <p>
     <small>
       <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
     </small>
   </p>
-
-  {{ layoutContent | safe }}
 
 </article>
 
