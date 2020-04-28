@@ -1,16 +1,7 @@
-<section>
+<section class='post-list'>
 	{% for post in postslist | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %}>
+		<a href="{{ post.url | url }}"><div class='post-container' {% if post.url == url %} data-current="current item"{% endif %}>
 			<img src="{{post.thumbNailImage}}"/>
-			<h3>
-				<a href="{{ post.url | url }}">
-					{% if post.data.title %}
-						{{ post.data.title }}
-					{% else %}
-						Untitled
-					{% endif %}
-				</a>
-			</h3>
-		</article>
+		</div></a>
 	{% endfor %}
 </section>
