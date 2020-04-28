@@ -1,7 +1,7 @@
 :root {
 	--primary: rgb(138,153,156);
 	--secondary: rgb(211,215,208);
-	--background: rgb(2,61,0);
+	--background: rgb(4, 114, 0);
 }
 
 *, *:before, *:after {
@@ -30,6 +30,7 @@ p,
 pre,
 code {
 	line-height: 1.5;
+	color: white;
 }
 
 a[href],
@@ -174,7 +175,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid white;
 }
 
 button {
