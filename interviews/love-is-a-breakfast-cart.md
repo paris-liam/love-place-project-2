@@ -1,10 +1,12 @@
 ---
 title: Place/Love is a Breakfast Cart
 subject: John in Hell’s Kitchen, New York City
-permalink: /interviews/John-M
-date: 2015-01-01
+thumbnailImage: /static/img/john-m-photo.jpg
+hederImage: /static/img/john-m-photo.jpg
 soundcloudLink: SomeLink.com
 tags: interviews
+permalink: /interviews/John-M
+date: 2015-01-01T00:00:00.000Z
 ---
 
 
