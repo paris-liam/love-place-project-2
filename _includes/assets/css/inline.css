@@ -1,8 +1,9 @@
 :root {
-	--primary: rgb(188, 243, 254);
-	--secondary: rgb(225, 228, 222);
-	--background: rgb(8, 128, 3);
+	--primary: blue;
+	--secondary: white;
+	--background: #FFF0EB;
 }
+
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -26,20 +27,10 @@ main {
 	max-width: 37.5em;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	color: var(--primary)
-}
-
 p,
 pre,
 code {
 	line-height: 1.5;
-	color: white;
 }
 
 a[href],
@@ -117,7 +108,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: black;
+	background-color: white;
 }
 
 /* Posts List */
