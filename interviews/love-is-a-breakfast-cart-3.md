@@ -16,7 +16,7 @@ date: 2015-01-01T00:00:00.000Z
 
 *John is a life-long resident of New York City, growing up in Queens, going to high school on the Upper East Side, college in the Bronx, and now living in a corner of Hell’s Kitchen. John knows NYC as well as just about anybody (for him, it’s a labor of love), and knows what he values in a neighborhood. I am reminded here of the concept of [Placemaking], an act of imagining what shared space could be when realigned to reflect these values. John told me about where he lived, but also areas of the city he admires (where this text picks up). This conversation reflects engaged Placemaking, I believe, as words like organic, belonging, and responsibility come up. While reading it, imagine plates of chicken stew and rice and beans sitting in front of us:*
 
-<span>✷</span>
+<div>✷</div>
 
 You wanna talk about where I want to be? More and more, especially coming to visit you and the whole apartment up on Arden, I love Inwood. I had never known that neighborhood except to go to the cloisters or fort tryon park maybe once every couple of years. But I had never walked around like Dyckman street or stuff like that, and I love it so much. It’s different as a man, because I can walk around freely at night and just enjoy the scene and everybody partying and clubs going on, people just smoking and playing dice in the street. But I do, it’s got character, it’s got flavor. People are out and want to be there and know their neighbors and stuff like that. It was kind of like that in Queens and I look back and I’m like, wait a second, I know everybody in my apartment building and there were familiar faces out on the block I would see. And I knew them, they knew me, and we didn’t know each other’s names but we would always say hi. You know, there was this one guy who said say hi to your dad for me. I had no idea who he was but every time I saw him on the block walking home from high school or something, say hi to your dad for me. If I knew who you were I would, but right now I’m just going to tell my dad some guy said hi to you. Where I live now, especially at the Northwestern tip of Hell’s Kitchen - it’s not even Hell’s Kitchen, it’s some weird Midtown West. 
 
@@ -40,7 +40,7 @@ Breakfast carts. I think they keep the city running in the mornings. And if I fi
 
 Yeah, the businesses, the ventures. I could talk about picking up litter or something, or tending to a community garden, but that’s not how I inhabit the spaces that I’ve lived in. I’ve always lived in a very dense urban environment, where there’s stores. Those are peoples’ livelihoods, these stores. So if you want to show support for people’s livelihoods and keep a neighborhood the character you want it to be, you support stores, restaurants. And I love food, so I’m always down to eat, and I’m always down to spend a little extra on food...
 
-<span>✷</span>
+<div>✷</div>
 
 *This love of food happens to be something that John and I share, so from here the interview mostly devolved into talking about that. We disagreed on the maximum price that a slice of pizza should cost (I am willing to accept $2.50, John is irked by anything above $2). We chatted about halal carts, and the best places to eat in Sunnyside (John’s recommendation: La Pollera de Mario on Greenpoint Ave.).*
 
