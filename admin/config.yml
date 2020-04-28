@@ -23,8 +23,6 @@ collections:
       - { label: "SoundCloudLink", name: "soundcloudLink", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {label: "tags", name: "tags", widget: "hidden", default: "interviews"}
-      - {label: "layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
 
   # About Page content
   - name: "aboutPageContent"

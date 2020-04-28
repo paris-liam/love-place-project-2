@@ -1,12 +1,9 @@
 ---
 title: Place/Love is a Breakfast Cart
-layout: layouts/post.njk
 subject: John in Hell’s Kitchen, New York City
 thumbnailImage: /static/img/john-m-photo.jpg
 hederImage: /static/img/john-m-photo.jpg
 soundcloudLink: SomeLink.com
-tags: interviews
-permalink: /John-m
 date: 2015-01-01T00:00:00.000Z
 ---
 
@@ -102,13 +99,6 @@ stores. So if you want to show support for people’s livelihoods and keep a nei
 character you want it to be, you support stores, restaurants. And I love food, so I’m always down
 to eat, and I’m always down to spend a little extra on food...
 ✷
-This love of food happens to be something that John and I share, so from here the interview
-mostly devolved into talking about that. We disagreed on the maximum price that a slice of
-pizza should cost (I am willing to accept $2.50, John is irked by anything above $2). We chatted
-about halal carts, and the best places to eat in Sunnyside (John’s recommendation: La Pollera
-de Mario on Greenpoint Ave.).
-I was happy that our conversation not only encompassed the imagining part of Placemaking,
-and sharing what should be sought out in a neighborhood. It also included John’s thoughts on
-how to achieve this: support for the establishments we’d like to see more of. Here’s to John’s
-quest to eat at enough breakfast carts and lunch counters to save 10th Avenue! I’m sure he
-would welcome help.
+This love of food happens to be something that John and I share, so from here the interview mostly devolved into talking about that. We disagreed on the maximum price that a slice of pizza should cost (I am willing to accept $2.50, John is irked by anything above $2). We chatted about halal carts, and the best places to eat in Sunnyside (John’s recommendation: La Pollera de Mario on Greenpoint Ave.).
+
+I was happy that our conversation not only encompassed the imagining part of Placemaking, and sharing what should be sought out in a neighborhood. It also included John’s thoughts on how to achieve this: support for the establishments we’d like to see more of. Here’s to John’s quest to eat at enough breakfast carts and lunch counters to save 10th Avenue! I’m sure he would welcome help.

@@ -1,5 +1,6 @@
 <section class='post-list'>
 	{% for post in postslist | reverse %}
+		<h1> {{ post.subject}}</h1>
 		<a href="{{ post.url | url }}"><div class='post-container' {% if post.url == url %} data-current="current item"{% endif %}>
 			<img src="{{ post.thumbnailImage }}"/>
 		</div></a>
