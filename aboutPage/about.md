@@ -1,9 +1,8 @@
 ---
-title: Place/Love Project
+title: The Place/Love Project
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 ---
-The Place/Love Project
 At the heart of this Project is an ongoing series of blog posts, each one based off of an interview
 with a different person. The interviews are centered around some of the everyday ways that we
 can care for our communities, neighborhoods, and shared physical spaces. These stories serve
