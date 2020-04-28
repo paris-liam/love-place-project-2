@@ -1,5 +1,5 @@
 ---
-title: Place/Love is a Breakfast Cart
+title: Place/Love is a Breakfast Cart 3
 subject: John in Hell’s Kitchen, New York City
 thumbnailImage: /static/img/john-m-photo.jpg
 headerImage: /static/img/john-m-photo.jpg
