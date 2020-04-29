@@ -7,133 +7,46 @@ soundcloudLink: <iframe width="100%" height="100" scrolling="no"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797829619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 date: 2020-04-28T22:38:24.584Z
 ---
-Before moving back to New York, Ava lived for two years in a town called Punta Gorda, in the Central American country of Belize. I was curious to chat with her because of this transition,
-which to me appears so difficult - from a town of about 5,000 to a city of over 8,000,000. I
-wanted to see if how she connected to Place was different in each location.
-It didn’t seem that way. One word that came up toward the end of our conversation (included in
-the transcribed version below) is wonder. Throughout the interview, it became clear to me that
-wonder guides most of Ava’s interactions with Place, whether in Punta Gorda or Harlem. It
-carries through our conversation, whether she’s talking about the residents of her apartment
-building, or later, the history and community that binds Harlem as a whole.
-Wonder, to me, is a great way to practice Place/Love. It speaks to a certain amount of
-reverence and intentionality in our approaches to Places and their current and former residents.
-Wonder describes well what I feel when I stumble across old, old pictures of my neighborhood
-from way back when. It helps me to realize that it’s not just about me, my needs, and my
-interactions with a Place - that there is a long history to be honored, spanning across previous
-urban generations, as well as those Native communities that lived on the land pre-colonization.
-Wonder is one of the only words I can use to wrap my head around so long a legacy of Place.
+*Before moving back to New York, Ava lived for two years in a town called Punta Gorda, in the Central American country of Belize. I was curious to chat with her because of this transition, which to me appears so difficult - from a town of about 5,000 to a city of over 8,000,000. I wanted to see if how she connected to Place was different in each location.*
+
+*It didn’t seem that way. One word that came up toward the end of our conversation (included in the transcribed version below) is wonder. Throughout the interview, it became clear to me that wonder guides most of Ava’s interactions with Place, whether in Punta Gorda or Harlem. It carries through our conversation, whether she’s talking about the residents of her apartment building, or later, the history and community that binds Harlem as a whole.*
+
+*Wonder, to me, is a great way to practice Place/Love. It speaks to a certain amount of reverence and intentionality in our approaches to Places and their current and former residents. Wonder describes well what I feel when I stumble across old, old pictures of my neighborhood from way back when. It helps me to realize that it’s not just about me, my needs, and my interactions with a Place - that there is a long history to be honored, spanning across previous urban generations, as well as the Native communities that lived on the land pre-colonization. Wonder is one of the only words I can use to wrap my head around so long a legacy of Place.*
 
 <div>✷</div>
 
-So to start with: what do you love about where you live, and particularly focusing on, you know, maybe not the big obvious things that might come to mind at first but the more small moments.
-Well, the first thing that comes to mind is my specific apartment building. We haven&#39;t gotten to
-meet too many of our neighbors, but there have been connections that we’ve made with certain
-people, and that’s definitely not a given in New York City. I think maybe it’s particularly because
-in our apartment a lot of the people who live there have been tenants for a long time - I don’t
-know if there is a reason why it feels different or it feels like people are more willing to chat. The
-people who live above us that we happened to meet when we were first moving in are from
-Belize, and so something that I really love about where we live is that I sometimes hear their
-Belizean music playing upstairs. Or just pass them in the hallway and get to have chats about
-what’s going on in their lives. Or just different, like, “Oh I was just in Belize,” or “I was just there
-for x y z reason,” or just talking about things there. So that’s something that has been really
-nice. And then another lady who lives down the hall from us runs a daycare out of her
-apartment, and so we get to see the kids around all the time, and she’s one of the ones that I’ve
-talked to more as well. And there’s another neighbor who, if she sees people’s packages
-downstairs, she’ll take it upon herself to deliver it to people. People are just really willing to
-reach out and be a representative of the building for other people. I just really appreciate that,
-especially after living in a smaller town where neighbors were really important and the people
+*So to start with: what do you love about where you live, and particularly focusing on, you know, maybe not the big obvious things that might come to mind at first but the more small moments.*
 
-that you lived around you knew and looked out for. One area I lived in, the neighborhood kids on the block would always come over to our house and just hang out, and we’d be walking home
-from work one day and somebody would invite us in for food or just to watch TV or something.
-So I guess coming out of that, I feel very thankful for when those connections can be made,
-even if you’re not living on a street or in a small town where everybody knows each other.
-Yeah, this is interesting. It seems like Place is very connected to people for you. Is that…?
-Yeah, I guess so. Especially in terms of - well, I feel like really though that feels true for me in
-this apartment building. I don’t know if I can say the same for the general neighborhood. I feel
-like I might know the person who’s the crosswalk guard in the mornings just by face and the
-guys at the bodega on the corner but I don’t feel that sense of people as Place expands outside
-of those couple of people that I know in my apartment building. Whereas in a different setting,
-like when I was in Belize and Punta Gorda, it was. I was working in the schools with the kids
-and saw them and their parents around town a lot. I saw people in the parish a lot. I just knew a
-lot more people and so it felt like that sense of people as Place and just being connected felt
-much broader and more encompassing. But here - I’m trying to think of other ways that I feel
-connected to, or a sense of Place in Harlem. I mean, St. Nicholas Park - thinking about the
-natural spaces. I feel like I appreciate having any space of nature and spaciousness in New
-York City. I feel like I will seek out, whether it’s walking down the street that passes the park or
-making time to go to the Botanical Gardens when I can, just like making or finding, seeking out
-spaces within the general local area, pockets of what I feel like I need to restore or stay sane.
-Yeah, that’s honestly the reason why I asked you to \[interview]. Because it seems like you often do a good job of that, seeking out.
-Yeah, or even going down to Coney Island to go for a swim - I feel like I realized that it’s
-important. In terms of places of nature or finding spaces of wilderness - yeah, I guess I would
-use that word. Just to be in nature is important to me. And I feel like it does make me a better
-person. It grounds me. Just to feel like you can put yourself for a moment in a very different
-environment and feel a sense of separation from the pace and the energy of New York, which is
-so great in so many ways but for me can be overwhelming and too much. So to feel like there’s
-some kind of boundary from that in some way. It’s interesting how within the city it does feel like
-you can kind of transition from the hustle and bustle of New York into a quieter space and you
-can still hear all the noises and see all the lights probably, but it’s something.
-Are there any ways that you give back to these places, if that makes sense?
-Yeah, it does make sense. It’s something I think about a lot living in Harlem and being a
-gentrifier. I think for me, when I first moved - I don’t know if this is giving back, or answering your
-question, but this is kind of what’s been on my mind about it. This is just kind of my way of
-dealing with being a new person in this space, or very obviously a new person or a different
-person in this neighborhood, was to just greet people. Like give them the time of day when I
-passed. That was such a big thing in Belize. You wouldn’t pass somebody without saying good
+Well, the first thing that comes to mind is my specific apartment building. We haven't gotten to meet too many of our neighbors, but there have been connections that we’ve made with certain people, and that’s definitely not a given in New York City. I think maybe it’s particularly because in our apartment a lot of the people who live there have been tenants for a long time - I don’t know if there is a reason why it feels different or it feels like people are more willing to chat. The people who live above us that we happened to meet when we were first moving in are from Belize, and so something that I really love about where we live is that I sometimes hear their Belizean music playing upstairs. Or just pass them in the hallway and get to have chats about what’s going on in their lives. Or just different, like, “Oh I was just in Belize,” or “I was just there for x y z reason,” or just talking about things there. So that’s something that has been really nice. And then another lady who lives down the hall from us runs a daycare out of her apartment, and so we get to see the kids around all the time, and she’s one of the ones that I’ve talked to more as well. And there’s another neighbor who, if she sees people’s packages downstairs, she’ll take it upon herself to deliver it to people. People are just really willing to reach out and be a representative of the building for other people. I just really appreciate that, especially after living in a smaller town where neighbors were really important and the people that you lived around you knew and looked out for. One area I lived in, the neighborhood kids on the block would always come over to our house and just hang out, and we’d be walking home from work one day and somebody would invite us in for food or just to watch TV or something. So I guess coming out of that, I feel very thankful for when those connections can be made, even if you’re not living on a street or in a small town where everybody knows each other.
 
-morning or good evening or good night. And it was very rude if you didn’t. So I was in the habit of it anyway, so it just felt nice to continue that. And also I feel like I just notice a lot of people
-walking really fast. I don’t know if people in the community feel a certain way about that. But I
-think when I’m in my neighborhood and in my head and just running from one place to another I
-don’t really feel like I am present on the street or with the people who are there, so I feel like
-another way I’ve been trying to be slightly more intentional and present is just to walk a little bit
-slower, just kind of as a way to be a little bit more present. I feel like there’s a lot of people in my
-neighborhood who hang out on my block or who are just chatting with people or just like sitting
-on their stoops. Something I appreciate about the neighborhood is there is more of a sense of
-community than there are in other parts of New York. And I don’t really know how to bridge all of
-those divides, or what feels that way, just because I am newer to this area and I don’t know the
-people and I don’t work there so I’m not there all the time, so it’s hard to feel like you can make
-roots in a place in the sense of building relationships if you’re not present there. So yeah, I feel
-like it’s so helpful when you can live and work in the same place and really I feel like that’s when
-community happens, because they are the people that you’re interacting with during the day, at
-work and at home. And you feel a sense of ownership more.
-Like in Punta Gorda?
-Yeah. And not to say that you can’t work in a different area and still be a part of a community at
-all. You know, you can still be a part of the community in so many ways. But like I don’t go - the
-other spaces I think about are church, or community board meetings, or - I don’t know, I was
-going to the Y for a while when I was swimming and I was doing some classes, some of the
-swimming classes, and that was a way to interact with and form relationships with people who
-were in the community. So that was one of the reasons why I didn’t stop my membership for so
-long, because I just appreciated that I was able to make some connections with people. And in
-some very superficial ways, but it just felt like something.
-I’m interested to talk more about that - you mentioned being a gentrifier - because it’s something
-that I think about a lot. Like, what can I do given that I’m here to better a situation for people
-around me, or -
-Or even just honor what that neighborhood has been for people and the people that have lived
-there. Yeah. I think a big thing for me is learning about the neighborhood, appreciating it in that
-sense. Living in Harlem, it’s such an important place for so many people, and it has been for so
-long and it’s gone through a lot of different changes, but it just feels very present. There’s a
-sense of ownership and community in this neighborhood, and history. And there’s a sense of
-protecting that, I think, from people in the community. So I feel like for me it’s been kind of a
-sense of wonder at literally everywhere you’re walking you’re walking on history. So many
-people and spaces in this area have been so powerful and important and it’s been fascinating to
-learn about that.
-I like the word wonder.
+*Yeah, this is interesting. It seems like Place is very connected to people for you. Is that…?*
 
-Yeah, like curiosity, and honestly it’s not like I feel this way about it all the time, but when I stop and think about it I really do. Or I learn about a new place or pass by a building that I didn’t
-know before, that it was this artist’s home or this is a bodega now but it used to be this
-newspaper. Given that Harlem is such a historic place, physically and beyond the physical, it
-feels important and just like a really great opportunity to take that in and just be wondered by
-that.
+Yeah, I guess so. Especially in terms of - well, I feel like really though that feels true for me in this apartment building. I don’t know if I can say the same for the general neighborhood. I feel like I might know the person who’s the crosswalk guard in the mornings just by face and the guys at the bodega on the corner but I don’t feel that sense of people as Place expands outside of those couple of people that I know in my apartment building. Whereas in a different setting, like when I was in Belize and Punta Gorda, it was. I was working in the schools with the kids and saw them and their parents around town a lot. I saw people in the parish a lot. I just knew a lot more people and so it felt like that sense of people as Place and just being connected felt much broader and more encompassing. But here - I’m trying to think of other ways that I feel connected to, or a sense of Place in Harlem. I mean, St. Nicholas Park - thinking about the natural spaces. I feel like I appreciate having any space of nature and spaciousness in New York City. I feel like I will seek out, whether it’s walking down the street that passes the park or making time to go to the Botanical Gardens when I can, just like making or finding, seeking out spaces within the general local area, pockets of what I feel like I need to restore or stay sane.
 
-✷
+*Yeah, that’s honestly the reason why I asked you to \[interview]. Because it seems like you often do a good job of that, seeking out.*
 
-How far can this sense of wonder extend? Ava and I went off on talking about histories to ponder this. Wonder helped us to grab at not only Harlem’s history, but the ‘memory’ of Places
-we would never know. At the current site of Lincoln Center, for example, where our alma mater
-Fordham University has a campus, an entire neighborhood was razed to make way for the two
-projects. We wondered about the West Side we would never know. Ava and I chatted too about
-the natural spaces left in New York, and the rock formations that dot Saint Nicholas Park. It’s a
-wonder to think about the City as only that, as hilly, rocky, overgrown.
-Just as we connect to our communities through our neighbors, maybe the ones upstairs whose
-music seeps down to our level, it is also an important exercise to honor what came before. What
-are the histories of Place that make you wonder, reader? Is there anything about your
-neighborhood or city that makes you wonder, what if this Place were still ---?
-As always, feel free to send me an email with your thoughts: agolio@tulane.edu.
+Yeah, or even going down to Coney Island to go for a swim - I feel like I realized that it’s important. In terms of places of nature or finding spaces of wilderness - yeah, I guess I would use that word. Just to be in nature is important to me. And I feel like it does make me a better person. It grounds me. Just to feel like you can put yourself for a moment in a very different environment and feel a sense of separation from the pace and the energy of New York, which is so great in so many ways but for me can be overwhelming and too much. So to feel like there’s some kind of boundary from that in some way. It’s interesting how within the city it does feel like you can kind of transition from the hustle and bustle of New York into a quieter space and you can still hear all the noises and see all the lights probably, but it’s something.
+
+*Are there any ways that you give back to these places, if that makes sense?*
+
+Yeah, it does make sense. It’s something I think about a lot living in Harlem and being a gentrifier. I think for me, when I first moved - I don’t know if this is giving back, or answering your question, but this is kind of what’s been on my mind about it. This is just kind of my way of dealing with being a new person in this space, or very obviously a new person or a different person in this neighborhood, was to just greet people. Like give them the time of day when I passed. That was such a big thing in Belize. You wouldn’t pass somebody without saying good morning or good evening or good night. And it was very rude if you didn’t. So I was in the habit of it anyway, so it just felt nice to continue that. And also I feel like I just notice a lot of people walking really fast. I don’t know if people in the community feel a certain way about that. But I think when I’m in my neighborhood and in my head and just running from one place to another I don’t really feel like I am present on the street or with the people who are there, so I feel like another way I’ve been trying to be slightly more intentional and present is just to walk a little bit slower, just kind of as a way to be a little bit more present. I feel like there’s a lot of people in my neighborhood who hang out on my block or who are just chatting with people or just like sitting on their stoops. Something I appreciate about the neighborhood is there is more of a sense of community than there are in other parts of New York. And I don’t really know how to bridge all of those divides, or what feels that way, just because I am newer to this area and I don’t know the people and I don’t work there so I’m not there all the time, so it’s hard to feel like you can make roots in a place in the sense of building relationships if you’re not present there. So yeah, I feel like it’s so helpful when you can live and work in the same place and really I feel like that’s when community happens, because they are the people that you’re interacting with during the day, at work and at home. And you feel a sense of ownership more.
+
+*Like in Punta Gorda?*
+
+Yeah. And not to say that you can’t work in a different area and still be a part of a community at all. You know, you can still be a part of the community in so many ways. But like I don’t go - the other spaces I think about are church, or community board meetings, or - I don’t know, I was going to the Y for a while when I was swimming and I was doing some classes, some of the swimming classes, and that was a way to interact with and form relationships with people who were in the community. So that was one of the reasons why I didn’t stop my membership for so long, because I just appreciated that I was able to make some connections with people. And in some very superficial ways, but it just felt like something.
+
+*I’m interested to talk more about that - you mentioned being a gentrifier - because it’s something that I think about a lot. Like, what can I do given that I’m here to better a situation for people around me, or -*
+
+Or even just honor what that neighborhood has been for people and the people that have lived there. Yeah. I think a big thing for me is learning about the neighborhood, appreciating it in that sense. Living in Harlem, it’s such an important place for so many people, and it has been for so long and it’s gone through a lot of different changes, but it just feels very present. There’s a sense of ownership and community in this neighborhood, and history. And there’s a sense of protecting that, I think, from people in the community. So I feel like for me it’s been kind of a sense of wonder at literally everywhere you’re walking you’re walking on history. So many people and spaces in this area have been so powerful and important and it’s been fascinating to learn about that.
+
+*I like the word wonder.*
+
+Yeah, like curiosity, and honestly it’s not like I feel this way about it all the time, but when I stop and think about it I really do. Or I learn about a new place or pass by a building that I didn’t know before, that it was this artist’s home or this is a bodega now but it used to be this newspaper. Given that Harlem is such a historic place, physically and beyond the physical, it feels important and just like a really great opportunity to take that in and just be wondered by that.
+
+<div>✷</div>
+
+*How far can this sense of wonder extend? Ava and I went off on talking about histories to ponder this. Wonder helped us to grab at not only Harlem’s history, but the ‘memory’ of Places we would never know. At the current site of Lincoln Center, for example, where our alma mater Fordham University has a campus, an entire neighborhood was razed to make way for the two projects. We wondered about the West Side we would never know. Ava and I chatted too about the natural spaces left in New York, and the rock formations that dot Saint Nicholas Park. It’s a wonder to think about the City as only that, as hilly, rocky, overgrown.*
+
+*Just as we connect to our communities through our neighbors, maybe the ones upstairs whose music seeps down to our level, it is also an important exercise to honor what came before. What are the histories of Place that make you wonder? Is there anything about your neighborhood or city that makes you wonder, what if this Place were still ---?*
+
+*As always, feel free to send me an email with your thoughts: agolio@tulane.edu.*
