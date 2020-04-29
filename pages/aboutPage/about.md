@@ -11,8 +11,6 @@ And second, to inspire care for Place. This is an urgent need, as our shared env
 
 To read a longer piece about Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto). To view the blog and dive into people’s stories, click [here](/). And to support us with a donation, 25% of which will go toward expanding this Project and 75% of which will be donated to various organizations and defenders of Place, click [here](/support).
 
-![](/static/img/img-5764.jpg)
-
 
 
 ## About the Blog Creators
