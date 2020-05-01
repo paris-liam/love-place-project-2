@@ -2,9 +2,6 @@
 title: Place/Love is New Homes and Old
 subject: Clare in East Harlem, New York City
 image: /static/img/clare-d-photo.jpg
-soundcloudLink: <iframe width="100%" height="100" scrolling="no"
-  frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/802676746&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 date: 2020-04-29T01:57:22.602Z
 ---
 *I spent part of the summer of 2019 living and working in Oakland, California. Before leaving the East Coast, I reached out to a friend of mine for her recommendations: Clare now lives in East Harlem, but grew up in Oakland. She introduced me to the Lake Merritt neighborhood where her family lives, including my all-time favorite farmer’s market and the historic Grand Lake Theater.*

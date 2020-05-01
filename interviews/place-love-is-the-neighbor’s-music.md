@@ -2,9 +2,6 @@
 title: Place/Love is the Neighbor’s Music
 subject: Ava in Harlem, New York City
 image: /static/img/ava-photo.jpg
-soundcloudLink: <iframe width="100%" height="100" scrolling="no"
-  frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797829619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 date: 2020-04-28T22:38:24.584Z
 ---
 *Before moving back to New York, Ava lived for two years in a town called Punta Gorda, in the Central American country of Belize. I was curious to chat with her because of this transition, which to me appears so difficult - from a town of about 5,000 to a city of over 8,000,000. I wanted to see if how she connected to Place was different in each location.*
