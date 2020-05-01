@@ -4,10 +4,13 @@ section: post
 ---
 
 <article class='post-body'>
-  <img src="{{ image }}"/>
-  <h1>{{ title }}</h1>
-  <h5>{{ subject }}</h5>
-
+  <div class='title-header'>
+    <div class='text-title-header'>
+      <h1>{{ title }}</h1>
+      <h5>{{ subject }}</h5>
+    </div>
+    <img src="{{ image }}"/>
+  </div>
   {{ layoutContent | safe }}
 
   <p>

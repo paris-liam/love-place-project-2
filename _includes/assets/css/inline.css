@@ -24,7 +24,8 @@ body {
 }
 
 main {
-	max-width: 70%;
+	padding: 1em;
+	max-width: 100%;
 }
 
 p,
@@ -43,7 +44,6 @@ a[href]:not(:hover) {
 }
 
 header,
-main,
 footer {
 	padding: 1em;
 }
@@ -206,8 +206,30 @@ article.post-body > img {
 	width: 300px;
 }
 
-@media screen and (min-width:768px) {
+.title-header {
+	display: flex;
+	flex-direction: row;
+}
+
+.title-header > .text-title-header {
+	display: flex;
+	flex-direction: column;
+}
+
+@media screen and (max-width:800px) {
+	.title-header {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+}
+
+
+@media screen and (min-width:801px) {
 	:root {
 		font-size: 1.1rem;
+	}	
+	main {
+		padding-left: 50px;
+		max-width: 1800px;
 	}
 }
