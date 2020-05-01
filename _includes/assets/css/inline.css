@@ -1,7 +1,10 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--one: rgb(201,107,60);
+	--two: rgb(240,168,112);
+	--three: rgb(209,170,145);
+	--four: rgb(204,234,230);
+	--five:  rgb(144,156,146);
+	--six:  rgb(41,49,86);
 }
 
 
@@ -11,6 +14,7 @@
 
 html,
 body {
+	color: var(--six);
 	padding: 0;
 	margin: 0;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -20,7 +24,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+	background-color: var(--two);
 }
 
 main {
@@ -36,7 +40,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--four);
 }
 
 a[href]:not(:hover) {
@@ -108,7 +112,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--three);
 }
 
 /* Posts List */
@@ -116,7 +120,7 @@ article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
+	border-bottom: 1px solid var(--four);
 }
 
 main > section > article > * {
@@ -135,18 +139,18 @@ a[rel="tag"]:visited {
   padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-  border: 1px solid var(--secondary);
-	background-color: var(--secondary);
-	color: var(--primary);
+  border: 1px solid var(--four);
+	background-color: var(--four);
+	color: var(--six);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 
 a[rel="tag"]:hover {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
-	color: var(--secondary);
+	border: 1px solid var(--three);
+	background-color: var(--two);
+	color: var(--four);
 }
 
 a[rel="tag"]:last-child {
@@ -179,9 +183,9 @@ textarea {
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
-	color: var(--secondary);
+	border: 1px solid var(--six);
+	background-color: var(--six);
+	color: var(--four);
 	cursor: pointer;
 }
 
