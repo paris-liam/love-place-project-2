@@ -93,6 +93,8 @@ header > em {
 
 /* Header Nav */
 header nav ul {
+	display: flex;
+	justify-content: center;
 	padding: 0;
 	list-style: none;
 	color: var(--six);
@@ -241,6 +243,11 @@ margin-top: 10px;
 	text-align: left;
 }
 
+.title-image {
+	width: 100%;
+	max-width: 1200px;
+	height: auto;
+}
 @media screen and (max-width:800px) {
 	.title-header {
 		display: flex;
