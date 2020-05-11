@@ -245,7 +245,6 @@ margin-top: 10px;
 
 .title-image {
 	width: 100%;
-	max-width: 1200px;
 	height: auto;
 }
 @media screen and (max-width:800px) {
