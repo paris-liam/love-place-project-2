@@ -264,3 +264,10 @@ margin-top: 10px;
 		max-width: 1800px;
 	}
 }
+
+@media screen and (min-width:1200px) {
+	header nav ul {
+		display: flex;
+		justify-content: center;
+	}
+}
