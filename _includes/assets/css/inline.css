@@ -199,6 +199,13 @@ button {
 .post-list {
 	display: flex;
 	flex-flow: row wrap;
+	justify-content: space-evenly;
+	width: 95%;
+	margin: auto;
+}
+
+.post-list > a {
+	margin: 10px;
 }
 
 .post-container {
@@ -207,6 +214,7 @@ button {
 .post-container > img{
 	width: auto;
 	height: 300px;
+	border: 7px double rgb(183,184,122);
 }
 
 article.post-body > div{
