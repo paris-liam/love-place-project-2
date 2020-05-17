@@ -71,6 +71,16 @@ footer {
 	padding: 1em;
 }
 
+footer > a[href] {
+	margin-left: 10px;
+	color: var(--six);
+
+}
+
+footer > a[href]:hover {
+	color: var(--one);
+}
+
 main {
 	padding-bottom: 2em;
 }
