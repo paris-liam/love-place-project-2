@@ -71,13 +71,19 @@ footer {
 	padding: 1em;
 }
 
-footer > a[href] {
+footer {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+
+footer > div > a[href] {
 	margin-left: 10px;
 	color: var(--six);
 
 }
 
-footer > a[href]:hover {
+footer > div > a[href]:hover {
 	color: var(--one);
 }
 
