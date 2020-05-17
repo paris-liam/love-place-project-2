@@ -2,7 +2,7 @@
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
     <li>
-      <a href="/"{% if '/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/interviews_tab.png'/></a>
+      <a href="/"{% if '/' == page.url %} data-current="current item"{% endif %}><img id="interview-image" src='/static/files/interviews_tab.png'/></a>
     </li>
     <li>
       <a href="/about"{% if '/about/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/about_tab.png'/></a>

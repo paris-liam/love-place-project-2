@@ -142,6 +142,10 @@ header nav li a img{
 	border-radius: 20px;
  }
 
+ header nav li a img#interview-image {
+	width: 75%;
+ }
+
 header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
