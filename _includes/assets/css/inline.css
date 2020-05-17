@@ -246,6 +246,7 @@ button {
 }
 
 .post-container > p {
+	text-align: center;
 	color: var(--six);
 }
 
