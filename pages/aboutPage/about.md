@@ -2,6 +2,7 @@
 title: About the Place/Love Project
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
+layout: layouts/about.njk
 ---
 At the heart of this Project is an ongoing series of blog posts, each one based off of an interview with an ongoing series of people. The interviews are centered around some of the everyday ways that we can care for our communities, neighborhoods, and shared physical spaces. These stories serve two purposes:
 
@@ -9,12 +10,12 @@ First, to celebrate Place - meaning not just a physical location, but also the p
 
 And second, to inspire care for Place. This is an urgent need, as our shared environments face significant and rampant threats, from urban gentrification and displacement to the destruction of wilderness. In a largely enterprise-driven culture, the responsibility is on us to maintain these Places and communities as we know and love them. The real lived experiences and everyday acts of care contained in this blog seek to demonstrate that even seemingly small acts can be radical, counter-cultural, and important.
 
-To read a longer piece about Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto). And to view the blog and dive into people’s stories, click [here](/).
+To read a longer piece about Place/Love and why it is necessary (the Place/Love Manifesto), click [ here](/manifesto). And to view the blog and dive into people’s stories, click [ here](/).
 
-![](/static/img/img-5764.jpg)
+![](/static/img/quote.png)
 
 ## About the Blog Creators
 
 AJ Golio is an incoming Sociology PhD student in the City, Culture, and Community program at Tulane University. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out at [agolio@tulane.edu](mailto:agolio@tulane.edu). 
 
-[Liam Paris](https://www.liamparis.com) created this website! forked from template by Dan Urbanowicz
+[Liam Paris ](https://www.liamparis.com) created this website! forked from template by Dan Urbanowicz

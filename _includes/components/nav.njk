@@ -2,16 +2,16 @@
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
     <li>
-      <a href="/"{% if '/' == page.url %} data-current="current item"{% endif %}>Interviews</a>
+      <a href="/"{% if '/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/interviews_tab.png'/></a>
     </li>
     <li>
-      <a href="/about"{% if '/about/' == page.url %} data-current="current item"{% endif %}>About</a>
+      <a href="/about"{% if '/about/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/about_tab.png'/></a>
     </li>
     <li>
-      <a target='_blank' href="/static/files/manifesto.pdf"{% if '/manifesto/' == page.url %} data-current="current item"{% endif %}>Manifesto</a>
+      <a href='/manifesto' {% if '/manifesto/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/manifesto_tab.png'/></a>
     </li>
-     <!--<li>
-      <a href="/support"{% if '/support/' == page.url %} data-current="current item"{% endif %}>Support</a>
-    </li>-->
+     <li>
+      <a href="/support"{% if '/support/' == page.url %} data-current="current item"{% endif %}><img src='/static/files/support_tab.png'/></a>
+    </li>
   </ul>
 </nav>

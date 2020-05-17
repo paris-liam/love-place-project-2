@@ -55,3 +55,13 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   
+ # Manifesto Page content
+  - name: "manifestoPageContent"
+  label: "ManifestoPage"
+  folder: "pages/manifestoPage"
+  create: false # Change to true to allow editors to create new pages
+  slug: "{{slug}}"
+  fields:
+    - { label: "Title", name: "title", widget: "string" }
+    - { label: "Permalink", name: "permalink", widget: "string" }
+    - { label: "Body", name: "body", widget: "markdown" }

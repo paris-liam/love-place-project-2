@@ -1,0 +1,27 @@
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+	{% include "components/head.njk" %}
+
+	<body>
+
+		<header>
+			<em>
+				<a href="{{ '/' | url }}"><img class='title-image' src='/static/files/title.png'></a>
+			</em>
+			{% include "components/nav.njk" %}
+		</header>
+
+		<main class='manifesto-page'>
+			<h1>{{ title }}</h1>
+
+            {{ layoutContent | safe }}
+
+            <iframe  src="/static/files/manifesto.pdf">
+		</main>
+
+		{% include "components/footer.njk" %}
+
+	</body>
+
+</html>
