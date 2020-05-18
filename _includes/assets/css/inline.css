@@ -74,7 +74,11 @@ footer {
 footer {
 	display: flex;
 	justify-content: space-between;
-	flex-direction: row;
+	flex-direction: column;
+}
+
+footer > div {
+	margin-bottom: 10px;
 }
 
 footer > div > a[href] {
@@ -331,7 +335,14 @@ margin-bottom: 10px;
 	main {
 		max-width: 1800px;
 	}
+
+	footer {
+		display: flex;
+		justify-content: space-between;
+		flex-direction: row;
+	}
 }
+
 
 @media screen and (min-width:1200px) {
 	header nav ul {
