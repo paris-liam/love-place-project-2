@@ -16,6 +16,6 @@ To read a longer piece about Place/Love and why it is necessary (the Place/Love 
 
 ## About the Blog Creators
 
-AJ Golio is a writer, and the creator of the Place/Love Project. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [agolio@tulane.edu](mailto:agolio@tulane.edu). 
+AJ Golio is a writer, and the creator of the Place/Love Project. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [anthonyjgolio@gmail.com](mailto:agolio@tulane.edu). 
 
 [Liam Paris ](https://www.liamparis.com) created this website! Forked from template by Dan Urbanowicz.
