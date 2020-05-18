@@ -48,4 +48,4 @@ Definitely. Even thinking about being in Austin, like nobody I know lives in Aus
 
 *In the space of one conversation, of course, Clare and I were not able to sort out what exactly makes home, home. And so I turn the prompt to you: what makes Home, for you? I challenge you to think here about the relationship between the physical and the emotional. How tied are those feelings of home to a certain location or space?*
 
-*As always, feel free to send me an email with your thoughts: agolio@tulane.edu.*
+*As always, feel free to send me an email with your thoughts: anthonyjgolio@gmail.com.*
