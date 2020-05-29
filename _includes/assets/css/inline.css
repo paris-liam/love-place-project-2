@@ -73,12 +73,18 @@ footer {
 
 footer {
 	display: flex;
-	justify-content: space-between;
-	flex-direction: column;
+	justify-content: flex-start;
+	flex-direction: column
+}
+
+footer > #mc_embed_signup form {
+	padding: 0;
+	max-width: 300px;
 }
 
 footer > div {
 	margin-bottom: 10px;
+	margin-right: 10px;
 }
 
 footer > div > a[href] {
@@ -345,8 +351,7 @@ margin-bottom: 10px;
 
 	footer {
 		display: flex;
-		justify-content: space-between;
-		flex-direction: row;
+		flex-direction: column;
 	}
 }
 
