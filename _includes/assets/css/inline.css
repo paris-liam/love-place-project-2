@@ -286,6 +286,13 @@ article.post-body > img {
 	width: 300px;
 }
 
+article.post-body > p{
+	width: 100%;
+}
+article.post-body > p > img{
+	max-width: 100%;
+}
+
 .title-header {
 	display: flex;
 	flex-direction: row;
