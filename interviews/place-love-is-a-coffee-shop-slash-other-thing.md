@@ -60,4 +60,4 @@ I think for me, a big part is trying to figure out what places I’m supporting 
 
 *What has your experience of taking up public space been? What have you observed? How can Places be re-imagined, bearing in mind those experiences?*
 
-*As always, feel free to send me an email with your thoughts: anthonyjgolio@gmail.com.*
+*As always, feel free to send me an email with your thoughts: placeloveproject@gmail.com.*
