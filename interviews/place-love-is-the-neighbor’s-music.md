@@ -1,5 +1,5 @@
 ---
-title: Place/Love is the Neighbor’s Music
+title: On Being Wondered
 subject: Ava in Harlem, New York City
 image: /static/img/ava-photo.jpg
 date: 2020-04-28T22:38:24.584Z
