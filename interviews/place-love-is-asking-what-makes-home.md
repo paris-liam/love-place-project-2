@@ -1,5 +1,5 @@
 ---
-title: Place/Love is New Homes and Old
+title: On Homes, Both New and Old
 subject: Clare in East Harlem, New York City
 image: /static/img/clare-d-photo.jpg
 date: 2020-04-29T01:57:22.602Z
