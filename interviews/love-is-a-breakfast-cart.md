@@ -1,5 +1,5 @@
 ---
-title: Place/Love is a Breakfast Cart
+title: On Breakfast Carts and Supporting Livelihoods
 subject: John in Hell’s Kitchen, New York City
 image: /static/img/new-john-m-photo.jpg
 date: 2020-04-29T01:43:00.584Z
@@ -44,4 +44,4 @@ Yeah, the businesses, the ventures. I could talk about picking up litter or some
 
 *The essentials of Placemaking are not only to share what should be sought out in a neighborhood, and imagining what a Place could be. It also includes pondering the application, or how to achieve it, like John’s quest to support the establishments he’d like to see more of. I invite you to engage in a bit of Placemaking yourself: what is it that you like about a neighborhood, and how can you be part of that change?*
 
-*As always, feel free to send me an email with your thoughts: anthonyjgolio@gmail.com.*
+*As always, feel free to send me an email with your thoughts: placeloveproject@gmail.com.*
