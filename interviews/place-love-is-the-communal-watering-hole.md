@@ -1,5 +1,5 @@
 ---
-title: Place/Love is the Communal Watering Hole
+title: On Communal Watering Holes
 subject: Tim in Gowanus, Brooklyn
 image: /static/img/tim-photo.jpg
 date: 2020-05-28T01:07:36.397Z
