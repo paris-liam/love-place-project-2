@@ -56,4 +56,4 @@ I guess what you think is normal may not necessarily be normal for other people,
 
 *After our conversation, Mika introduced me to one more artist (she works at a museum, and so definitely did not disappoint on the Place/art front). Zarina’s exhibition at the Met entitled ‘[Home is a Foreign Place](https://www.metmuseum.org/art/collection/search/499720)’ is an excellent series depicting minimalist views of ‘home’. I was reminded again of Suh’s moveable apartment: in all of these myriad ways, we carry Places with us, a little bit of Tokyo, a little bit of California, a little bit of New York.*
 
-*Thoughts? Comments? Feel free to dialogue over at anthonyjgolio@gmail.com.*
+*Thoughts? Comments? Feel free to dialogue over at placeloveproject@gmail.com.*
