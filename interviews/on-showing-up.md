@@ -66,4 +66,4 @@ I’m just here to amplify their \[people of colors’] voices, because they des
 
 <div>✷</div>
 
-*I strongly encourage you, if you are able, to financially support black-organized coalitions and efforts, just a few examples of which are listed here: [Reclaim the Block](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2), [Black Visions Collective](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2), a [Minneapolis gas mask fund](https://twitter.com/BaconTribe/status/1266897075456917504). Please, stay safe as you show up.*
+*I strongly encourage you, if you are able, to financially support black-organized coalitions and efforts. Here a just a few examples, the first of which is focused on Pittsburgh specifically, because that's where these interviewees are: [](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2)[Bukit Bail Fund](https://www.bukitbailfund.org/donate), [Black Visions Collective](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2), a [Minneapolis gas mask fund](https://twitter.com/BaconTribe/status/1266897075456917504). Please, stay safe as you show up.*
