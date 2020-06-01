@@ -1,5 +1,5 @@
 ---
-title: Place/Love is a Moveable Apartment
+title: On Moveable Apartments
 subject: Mika in Hamilton Heights, New York City
 image: /static/img/mika-photo.jpeg
 date: 2020-05-21T16:25:25.504Z
