@@ -275,9 +275,16 @@ button {
 	border: 7px double rgb(183,184,122);
 }
 
+.post-container > h4 {
+	text-align: left;
+	margin-bottom: 0;
+	font-size: 16px;
+}
 .post-container > p {
-	text-align: center;
+	text-align: left;
 	color: var(--six);
+	margin: 0;
+	font-size: 12px;
 }
 
 .post-container:hover > p {
