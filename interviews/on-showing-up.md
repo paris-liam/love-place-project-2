@@ -1,6 +1,6 @@
 ---
 title: On Showing Up
-subject: Justice for George Floyd Protesters in Pittsburgh, PA
+subject: "#JusticeforGeorgeFloyd Protesters in Pittsburgh, PA"
 image: /static/img/protest-photo.png
 date: 2020-06-01T03:00:15.954Z
 ---
