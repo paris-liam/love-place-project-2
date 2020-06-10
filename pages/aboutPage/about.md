@@ -12,6 +12,8 @@ And second, to inspire care for Place. This is an urgent need, as our shared env
 
 Place/Love is foremost a humanist blog, centered around a belief that the world, and the people and creatures that inhabit it, in all of their diversity, are stupefyingly beautiful once we slow down and take a look at it all. But celebration does not have to mean lack of criticism for the injustices that plague our world and communities - quite the opposite. As James Baldwin wrote in his introduction to *Notes of a Native Son*: "I love America more than any other country in the world, and, exactly for this reason, I insist on the right to criticize her perpetually." Place/Love is about both preserving the things that we love in our neighborhoods *and* calling out and having honest conversations about the things that we don't - for it would be a disservice to that love to accept imperfection.
 
+With this comes an acknowledgement that this blog is run by a white man. The intention behind posting mostly interviews is to allow the focus to be on the words of the interviewee - and outreach work will be put in to ensure that BIPOC, non-male, and other voices that come from different backgrounds, are being amplified here. Scholarship on urban issues such as gentrification and policing is not valid when done by an educated white man alone - it must include other voices as an integral part. That is the intention of these interviews.
+
 To read a longer piece about Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto). And to view the blog and dive into people’s stories, click [here](/).
 
 ![](/static/img/quote.png)
