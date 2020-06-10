@@ -42,4 +42,6 @@ One of the spaces that I did want to uplift is last summer I got to teach twelve
 
 *Questions for Personal Reflection: How do you aim to create spaces that are inclusive, equitable, and non-hierarchical? What are some spaces in your life that could use these principles and techniques?*
 
-*Feel free to email your thoughts to placeloveproject@gmail.com!*
+*Also, as we're highlighting a Philadelphia-based practitioner this week, please consider donating to the [Philadelphia Bail Fund](https://www.phillybailfund.org/donate) or [Mutual Aid Philly](https://mutualaidphilly.com/), to support ongoing community-based transformation efforts.*
+
+*Feel free to email any thoughts to placeloveproject@gmail.com!*
