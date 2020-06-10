@@ -1,5 +1,5 @@
 ---
-title: On Breakfast Carts and Supporting Livelihoods
+title: On Breakfast Carts and Livelihoods
 subject: John in Hell’s Kitchen, New York City
 image: /static/img/new-john-m-photo.jpg
 date: 2020-04-29T01:43:00.584Z
