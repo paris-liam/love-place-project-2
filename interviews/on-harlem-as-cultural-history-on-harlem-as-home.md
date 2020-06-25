@@ -1,12 +1,12 @@
 ---
-title: On Harlem as Cultural History, On Harlem as Home
+title: On Harlem as Cultural History
 subject: Josh in Harlem, New York City
 image: /static/img/ramos-photo.png
 date: 2020-06-25T15:10:08.367Z
 ---
 *Josh is a writer, performer, and educator. Co-showrunner of the therapy themed improv & stand up live show ‘Do You Wanna Talk About it?’ as well as the co-host of the Black Irish Comedy Show, the first monthly comedy residency at Brooklyn Brewery, his [writings](https://grandmasophiascookies.com/author/jramos32/) can also be found on the music and culture blog [Grandma Sophia’s Cookies](https://grandmasophiascookies.com/). You can follow his strange lifestyle on [Twitter](https://twitter.com/joshstamos_) and [Instagram](https://www.instagram.com/joshstamos_/?hl=en).*
 
-✷
+<div>✷</div>
 
 I live in the Dunbar apartments in like North Central Harlem. I used to live on 127th and Lenox, which was cool. It’s very poppin’ over there by 125th, a lot of cool restaurants, [Corner Social](https://cornersocialnyc.com/), [Sylvia’s](http://sylviasrestaurant.com/), [Cantina](https://www.cantinany.com/). But now I live on 150th and it’s more residential. There’s no main train right there so it’s more calm, which I really like - I didn’t really like the hustle and bustle of 127th all that much. But I like 150th and Frederick Douglass. Dunbar is cool, it’s a very old-school community. It’s half gentrification and half older folks, which has been interesting now during COVID as mutual aid societies are going about that. It’s my third year there and a lot of the new people don’t really interact with the older folk, but now we are, which is nice and it’s created a much nicer sense of community.
 
@@ -33,3 +33,7 @@ Yeah, I’m always talking to the kids about expressing themselves. I’m a spec
 Storytelling is important, especially for Black and brown people in America. We’re not doing DNA tests to find out what was going on 200+ years ago because that’s just a sad history. But knowing the people from not that long ago - James Baldwin was not that long ago. Knowing the artists from Harlem, Baldwin, Langston Hughes, there’s so many. There’s a jazz spot [Bill’s Place](http://www.billsplaceharlem.com/) where you can go and pay $25 to see a two hour live jazz show. There’s so much cultural history and art that you can find in Harlem if you are willing to just look for it. A lot of my friends still go to shows in Brooklyn, but there’s so many dope things here. Listen to the sounds and the history and the art of people that look like you. Don’t just go for the popular mainstream stuff. Even in rap music, a lot of the mainstream stuff right now is cool but at the same time it’s not saying much about anything. It’s not about struggle. It presents a certain lifestyle that’s more about escapism. This moment right now - let’s not escape this moment right now. Let’s face the uncomfortable-ness of everything. My favorite artists have been the ones that keep it at the forefront of realness. People like [Jay Electronica](https://www.youtube.com/watch?v=Pk-TBouw57M), [Medhane](https://www.youtube.com/watch?v=InZZHpimjK4), [MIKE](https://www.youtube.com/watch?v=m3-qBVQTmoE), [Mavi](https://www.youtube.com/watch?v=qy5_YXmR40w), [JWords](https://www.youtube.com/watch?v=tlrVYJieMwM&list=OLAK5uy_ltvYVtHEY1QvHB-V8ZrRZwOTWk4xWISXM), [keiyaA](https://www.youtube.com/watch?v=awZQryp7v_I), [Show Me the Body](https://www.youtube.com/watch?v=B15q6Uz6inY), [Roper Williams](https://www.youtube.com/watch?v=igvL4O6vHmM). Lot of DIY artists from the local tri-state grinding independently really speaking the language of the everyday person in a real way.
 
 I encourage my kids to be real with themselves, express themselves, write, get a journal, and take time to document what’s going on. One of my co-workers, she takes a self-portrait of herself every day during COVID. Pay special attention to this moment. Even if you’re just a kid who posts on your Instagram once a day what you’re feeling, that’s a historical document, that’s art. It doesn’t have to be super serious. It doesn't have to hang in a museum.
+
+<div>✷</div>
+
+*Want to keep up with Place/Love? Join the mailing list [here](https://mailchi.mp/2e9222bf50df/placelove-project) to get a weekly update on new interviews, essays, and other content.*
