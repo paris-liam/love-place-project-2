@@ -40,6 +40,6 @@ Yeah, because we’re here. We might as well appreciate this thing that we’re 
 
 *Questions for Reflection: What are the often-unnoticed objects or people in your surroundings or in your community? What stories do they have to tell, and why is it worth listening?*
 
-*As always, feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). You can sign up for our weekly mailing list by clicking [here](https://mailchi.mp/2e9222bf50df/placelove-project) - this is the best way to keep up with new Place/Love interviews, essays, and more!*
+*As always, feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). You can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more!*
 
 *Note: this interview was recorded on May 29, 2020.*
