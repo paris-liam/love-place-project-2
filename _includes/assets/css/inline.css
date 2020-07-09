@@ -77,9 +77,11 @@ footer {
 	flex-direction: column
 }
 
-footer > #mc_embed_signup form {
+footer > iframe {
 	padding: 0;
 	max-width: 300px;
+	border: none;
+	background-color: transparent;
 }
 
 footer > div {
