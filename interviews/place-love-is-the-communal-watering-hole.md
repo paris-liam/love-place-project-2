@@ -50,4 +50,4 @@ That was honestly one of the things that drew me to the neighborhood very early 
 
 *What are the ‘watering holes’, the communal spaces, in your neighborhood? And how are you a part of that fabric?*
 
-*You can always send your thoughts along to placeloveproject@gmail.com.*
+*You can always send your thoughts along to placeloveproject@gmail.com. Also, you can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more.*
