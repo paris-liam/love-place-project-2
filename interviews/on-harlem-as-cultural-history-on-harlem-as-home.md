@@ -38,4 +38,4 @@ I encourage my kids to be real with themselves, express themselves, write, get a
 
 <div>✷</div>
 
-*Want to keep up with Place/Love? Join the mailing list [here](https://mailchi.mp/2e9222bf50df/placelove-project) to get a weekly update on new interviews, essays, and other content.*
+*Want to keep up with Place/Love? Join the mailing list [here](https://placeloveproject.substack.com/welcome) to get a weekly update on new interviews, essays, and other content.*
