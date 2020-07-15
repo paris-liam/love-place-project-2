@@ -46,4 +46,4 @@ Yeah, we accept [donations](https://glasshalffullnola.org/donate). We’re launc
 
 *Questions for Reflection: What environmental relationships does your community have with its neighbors? In what way are they exploitative, and in what way are they enriching? How can they be improved?*
 
-*As always, feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). Also, you can sign up for our weekly mailing list by clicking [here](https://mailchi.mp/2e9222bf50df/placelove-project) - this is the best way to keep up with new Place/Love interviews, essays, and more.*
+*As always, feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). Also, you can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more.*
