@@ -44,4 +44,4 @@ Yeah, the businesses, the ventures. I could talk about picking up litter or some
 
 *The essentials of Placemaking are not only to share what should be sought out in a neighborhood, and imagining what a Place could be. It also includes pondering the application, or how to achieve it, like John’s quest to support the establishments he’d like to see more of. I invite you to engage in a bit of Placemaking yourself: what is it that you like about a neighborhood, and how can you be part of that change?*
 
-*Feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). You can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more!*
+*Feel free to send your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). And you can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more.*
