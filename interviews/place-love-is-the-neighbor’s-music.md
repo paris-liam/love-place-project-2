@@ -48,4 +48,4 @@ Yeah, like curiosity, and honestly it’s not like I feel this way about it all 
 
 *Just as we connect to our communities through our neighbors, maybe the ones upstairs whose music seeps down to our level, it is also an important exercise to honor what came before. What are the histories of Place that make you wonder? Is there anything about your neighborhood or city that makes you wonder, what if this Place were still ---?*
 
-*As always, feel free to send me an email with your thoughts: placeloveproject@gmail.com.*
+*As always, feel free to send me an email with your thoughts: placeloveproject@gmail.com. And you can sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more.*
