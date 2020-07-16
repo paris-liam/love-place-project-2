@@ -20,7 +20,7 @@ To read a longer piece about Place/Love and why it is necessary (the Place/Love 
 
 ## About the Blog Creators
 
-AJ Golio (he/him) is the creator of the Place/Love Project, and an incoming Sociology PhD student in City, Culture, and Community at Tulane University. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). 
+AJ Golio (he/him) is the creator of the Place/Love Project. He is an incoming Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). 
 
 [Liam Paris ](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
 
