@@ -4,7 +4,7 @@ subject: Jill in Waterbury, Connecticut
 image: /static/img/jill-photo.jpg
 date: 2020-07-31T18:03:58.096Z
 ---
-*Jill is the co-founder, along with her partner Will, of Hungry Reaper Farm in Morris, CT. Hungry Reaper strives to provide organic, local food in a manner that is beneficial to our soil, water, air, and people. Jill is also an avid painter and baker!*
+*Jill is the co-founder, along with her partner Will, of [Hungry Reaper Farm](https://www.hungryreaperfarm.com/) in Morris, CT. Hungry Reaper strives to provide organic, local food in a manner that is beneficial to our soil, water, air, and people. Jill is also an avid painter and baker!*
 
 <div>✷</div>
 
@@ -55,6 +55,8 @@ It’s a beautiful thing to have a connection to your food, and I feel privilege
 That’s definitely a lot of the imagery that’s out there. And I feel like the influencer farmers out there, who are on Instagram and sharing their farm, or showing up at conferences and talking about farming, tend to be very white. But so much of that knowledge comes from indigenous folks and folks of color, and we have so much to learn from. Something that I learned recently that was kind of disturbing is that 0% - which is not actually zero people, but virtually 0% - of the farmland in New England is owned by Black folks. This is where land access comes in again, in that we don’t have systems in place in order for people to access farmland and sustain a family, sustain a life, provide yourself healthcare. There are few benefits to farming: you’re basically starting a business and exerting your body physically and it’s just not an easy thing. So of course it comes from a place of privilege - Will and I certainly have loads of white privilege. I’m definitely not an authority on any of this, but I know there are farmers of color out there really doing amazing work right now, and you are right when you say that it does tend to draw a lot of young white folks to that profession and is visibly that.
 
 *Thank you for answering and being vulnerable! I think that’s everything I had.*
+
+*Don't forget that [Hungry Reaper](https://www.hungryreaperfarm.com/) offers fresh produce to those in the Morris area, including an option to buy a CSA share! For those not in Connecticut, I can personally attest to the awesomeness of their t-shirts and other apparel.*
 
 <div>✷</div>
 
