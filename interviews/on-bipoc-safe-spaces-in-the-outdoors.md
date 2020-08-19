@@ -1,5 +1,5 @@
 ---
-title: On BIPOC Safe Spaces in the Outdoors
+title: On Creating Black Spaces, Outdoors
 subject: Debbie in Saint Louis, MO
 image: /static/img/debbiephoto.jpg
 date: 2020-08-19T20:28:09.833Z
