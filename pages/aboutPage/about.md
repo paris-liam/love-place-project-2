@@ -4,7 +4,11 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 layout: layouts/about.njk
 ---
-At the heart of this Project is an ongoing series of blog posts, each one based off of an interview with an ongoing series of people. The interviews are centered around some of the everyday ways that we can care for our communities, neighborhoods, and shared physical spaces. These stories serve two purposes:
+The Place/Love Project is a space for the collective imagining of care for our communities, neighborhoods, and shared physical environments - our Places.
+
+At the heart of the Project is an ongoing series of interviews with an ongoing series of people. Each of these interviews becomes a blog post, all of which you can browse [here](https://placeloveproject.org/). The topics vary, from mutual aid to local cultural history to neighborhood bars, and more - all of the things that make Places stronger.
+
+These stories serve two purposes:
 
 First, to celebrate Place - meaning not just a physical location, but also the people and culture that populate it. The focus here is on shared spaces (think parks and libraries, bars and barbershops, streets and trails), and on the local neighborhood where the interviewee lives. The hope here is to document the things we find important about a Place. For instance, we could value a Place for its diversity, for its accessibility, for its social opportunities, or for its natural spaces. This is an effort engage in collective Placemaking that re-imagines our communities centered around those values - a counter-cultural exercise in a world usually centered instead around capital and materialism.
 
@@ -14,13 +18,17 @@ Place/Love is foremost a humanist blog, centered around a belief that the world,
 
 With this comes an acknowledgement that this blog is run by a white man. The intention behind posting mostly interviews is to allow the focus to be on the words of the interviewee - and outreach work will be put in to ensure that BIPOC, non-cis-masculine, differently-abled and other voices that come from different backgrounds, are being amplified here. Scholarship on urban issues such as gentrification and policing is not valid when done by an educated white man alone - it must include other voices as an integral part. That is the intention of these interviews.
 
-To read a longer piece about Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto). And to view the blog and dive into people’s stories, click [here](/).
+To read a longer piece about the ideas behind Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto).
+
+To join our weekly mailing list, which will keep you updated about new Place/Love content, click [here](https://placeloveproject.substack.com/welcome).
+
+And to view the blog and dive into people’s stories, click [here](/).
 
 ![](/static/img/quote.png)
 
 ## About the Blog Creators
 
-AJ Golio (he/him) is the creator of the Place/Love Project. He is an incoming Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). 
+AJ Golio (he/him) is the creator and co-runner of the Place/Love Project. He is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). 
 
 [Liam Paris ](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
 
