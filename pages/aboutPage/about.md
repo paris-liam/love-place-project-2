@@ -6,17 +6,11 @@ layout: layouts/about.njk
 ---
 The Place/Love Project is a space for the collective imagining of care for our communities, neighborhoods, and shared physical environments - our Places.
 
-At the heart of the Project is an ongoing series of interviews with an ongoing series of people. Each of these interviews becomes a blog post, all of which you can browse [here](https://placeloveproject.org/). The topics vary, from mutual aid to local cultural history to neighborhood bars, and more - all of the things that make Places stronger.
+At the heart of the Project is an ongoing series of interviews with an ongoing series of people. Each of these interviews becomes a blog post, all of which you can browse [here](https://placeloveproject.org/). The topics vary, from mutual aid to local cultural history to neighborhood bars and more - all of the things that make Places stronger.
 
-These stories serve two purposes:
+There is an urgent need for intentional care for Place - meaning not just a physical location, but also the people and culture that populate it. Our Places face significant threats, from urban gentrification to racist policy to wilderness destruction. In a largely enterprise-driven culture, the responsibility is on us to maintain these Places and communities as we know and love them - and improve upon what we don't love.
 
-First, to celebrate Place - meaning not just a physical location, but also the people and culture that populate it. The focus here is on shared spaces (think parks and libraries, bars and barbershops, streets and trails), and on the local neighborhood where the interviewee lives. The hope here is to document the things we find important about a Place. For instance, we could value a Place for its diversity, for its accessibility, for its social opportunities, or for its natural spaces. This is an effort engage in collective Placemaking that re-imagines our communities centered around those values - a counter-cultural exercise in a world usually centered instead around capital and materialism.
-
-And second, to inspire care for Place. This is an urgent need, as our shared environments face significant and rampant threats, from urban gentrification and displacement to racism and discriminatory policing to the destruction of wilderness. In a largely enterprise-driven culture, the responsibility is on us to maintain these Places and communities as we know and love them - and improve upon what we don't love. The real lived experiences and everyday acts of care contained in this blog vary from supporting local-owned businesses to showing up for protests and demonstrations. All of them seek to demonstrate that even seemingly small acts can be radical, counter-cultural, and important.
-
-Place/Love is foremost a humanist blog, centered around a belief that the world, and the people and creatures that inhabit it, in all of their diversity, are stupefyingly beautiful once we slow down and take a look at it all. But celebration does not have to mean lack of criticism for the injustices that plague our world and communities - quite the opposite. As James Baldwin wrote in his introduction to *Notes of a Native Son*: "I love America more than any other country in the world, and, exactly for this reason, I insist on the right to criticize her perpetually." Place/Love is about both preserving the things that we love in our neighborhoods *and* calling out and having honest conversations about the things that we don't - for it would be a disservice to that love to accept imperfection.
-
-With this comes an acknowledgement that this blog is run by a white man. The intention behind posting mostly interviews is to allow the focus to be on the words of the interviewee - and outreach work will be put in to ensure that BIPOC, non-cis-masculine, differently-abled and other voices that come from different backgrounds, are being amplified here. Scholarship on urban issues such as gentrification and policing is not valid when done by an educated white man alone - it must include other voices as an integral part. That is the intention of these interviews.
+The hope of the Place/Love Project is to document what we value in and how we care for communities, neighborhoods, and the environment. This is an effort to engage in collective [Placemaking](https://www.pps.org/article/what-is-placemaking) that re-imagines our surroundings centered around those values - a radical, counter-cultural, and important exercise in a world usually centered around capital instead of community.
 
 To read a longer piece about the ideas behind Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto).
 
@@ -28,8 +22,10 @@ And to view the blog and dive into people’s stories, click [here](/).
 
 ## About the Blog Creators
 
-AJ Golio (he/him) is the creator and co-runner of the Place/Love Project. He is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). 
+AJ Golio (he/him) is the creator and co-runner of the Place/Love Project. He is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild. Feel free to reach out with thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu).
 
-[Liam Paris ](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
+Ava Gagliardi ()
+
+[Liam Paris](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
 
 [MaryKate Glenn](https://www.instagram.com/mkg414/) (she/her) is an artist that drew the logo, lettering, and other artwork on the site.
