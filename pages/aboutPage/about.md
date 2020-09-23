@@ -24,9 +24,9 @@ Feel free to reach out with any thoughts at [placeloveproject@gmail.com](mailto:
 
 ## About the Blog Creators
 
-AJ Golio (he/him) is the creator and co-runner of the Place/Love Project. He is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild.
+AJ Golio (he/him; Creator and Co-Producer) is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild.
 
-Ava McLaughlin Gagliardi (she/her) is studying politics, economics, and sociology at Fordham University in New York City. She has lived in Manhattan for the last three years and previously the Bronx for four. Some of the other Places she has made a home and is rooted deeply in are Dalkey, Ireland; Punta Gorda, Belize; and Wayne, Pennsylvania.
+Ava McLaughlin Gagliardi (she/her; Co-Producer) is studying politics, economics, and sociology at Fordham University in New York City. She has lived in Manhattan for the last three years and previously the Bronx for four. Some of the other Places she has made a home and is rooted deeply in are Dalkey, Ireland; Punta Gorda, Belize; and Wayne, Pennsylvania.
 
 [Liam Paris](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
 
