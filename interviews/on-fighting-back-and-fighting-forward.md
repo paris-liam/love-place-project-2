@@ -38,6 +38,6 @@ How do I envision my community stregthening further? I just feel like we're in s
 
 <div>✷</div>
 
-*Question for Reflection:*
+*Question for Reflection: What does it mean / look like for all members of your community to reach their fullest potential, both as individuals and as a whole? How can it be achieved?*
 
 *Feel free to send any of your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). You can also sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more!*
