@@ -1,7 +1,7 @@
 ---
 title: On Fighting Back and Fighting Forward
 subject: Gregory in Bedford Park, the Bronx
-image: /static/img/gj-2.jpg
+image: /static/img/image-1058.jpg
 date: 2020-10-13T16:05:36.478Z
 ---
 *Gregory (he/him) is an educator, organizer and researcher writing about race and place and how the people of the Bronx fought back against redlining.*
