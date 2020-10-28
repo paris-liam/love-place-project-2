@@ -6,6 +6,8 @@ date: 2020-10-28T02:04:34.033Z
 ---
 *[Shabez](http://shabezj.com/) (he/him/they/them) is an interdisciplinary artist from Kinloch, MO, whose work interrogates physical, political, and social-economical space by using queerness, not as a means of speaking about sexuality, but as a catalyst to challenge varying power relations. Now based in New Orleans, he is an MFA candidate at Tulane University.*
 
+*Interview conducted by AJ, 10.16.20*
+
 <div>✷</div>
 
 *Let’s start out kind of open-ended: could you share a little bit about Kinloch?*
@@ -35,3 +37,7 @@ I think for me in particular, I wasn’t really young when Ferguson happened, bu
 From what I’m seeing from me and Alana and others: I think it’s preservation through the archive and creating new archives through the experience of Kinloch, because we are under the understanding that Kinloch will never come back to be what it was. Most of the homes have been demolished, most of the streets have been pulled up. Right now it’s going through this moment of being industrialized, so there are a lot of factories being built now after sitting vacant for twenty years or so. We know that the fabric of the community as we are familiar with it will never come back, and so what all of us are actively doing is trying to preserve it through the archive, preserve it through the people that live there and understand that the community is still there. Every year they have a reunion where my grandmother and my grandfather go to the Kinloch reunion and meet up with their old friends and schoolmates and teachers and folks who actually made the community, and a lot of them are dying so it’s up to us, their grandchildren and great-grandchildren, to preserve this community as best we can. And because most of us aren’t from there and didn’t grow up there, the best that we can do is create new visual imagery to preserve this community. So I think that’s the best way that we can go forward with making sure Kinloch is preserved.
 
 <div>✷</div>
+
+*Questions for Reflection: What are the important stories to preserve and archive around you? How can you carry this out in your life and practice?*
+
+*Feel free to send any of your thoughts to [placeloveproject@gmail.com](mailto:placeloveproject@gmail.com). You can also sign up for our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome) - this is the best way to keep up with new Place/Love interviews, essays, and more!*
