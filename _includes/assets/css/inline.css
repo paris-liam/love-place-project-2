@@ -270,10 +270,14 @@ button {
 
 .post-container {
 	margin-right: 10px;
+	display: flex;
+	flex-direction: column;
+	width: 300px;
 }
 .post-container > img{
-	width: auto;
+	width: 300px;
 	height: 300px;
+	margin: auto;
 	border: 7px double rgb(183,184,122);
 }
 
