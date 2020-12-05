@@ -1,10 +1,15 @@
 ---
 title: On Breakfast Carts and Livelihoods
 subject: John in Hell’s Kitchen, New York City
+hookText: "*Before our interview, I met John at 10th Ave. and 57th Street, near
+  his apartment building. He wanted to take me to a tiny Dominican restaurant
+  called Lali: really more of a lunch counter, but with two tables in the back
+  where we could have our conversation. But first, John took me on a stroll down
+  10th Avenue, so that I could see the neighborhood.*"
 image: /static/img/new-john-m-photo.jpg
 date: 2020-04-29T01:43:00.584Z
 ---
-*Before our interview, I met John at 10th Ave. and 57th Street, near his apartment building. He wanted to take me to a tiny Dominican restaurant called Lali: really more of a lunch counter, but with two tables in the back where we could have our conversation. But first, John took me on a stroll down 10th Avenue, so that I could see the neighborhood.* 
+
 
 *It is an interesting little slice of New York: as John was quick to point out, just one block over on 9th there is a totally different feel, and a significantly more advanced stage of West Side gentrification. 9th has the trendy bars, the clubs and more expensive eateries. Here on 10th, bodegas and holes-in-the-wall still rule… for now. Lali is only ten blocks from the mammoth new luxury housing and retail development Hudson Yards (which John and I share a great distaste for), and the area is quickly changing. Talking with John about the delis he frequents on 10th, his memories of different stops off the 7 train, and the dueling piano bar he likes to go to (Bar Nine), it’s clear that he seeks out lively, authentic Places, full of small businesses and people who know each other's names. Our destination, Lali, was no different - and he doesn’t want it to go.*
 
