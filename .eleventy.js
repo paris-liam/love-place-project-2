@@ -4,7 +4,8 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
@@ -24,6 +25,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
+
+  eleventyConfig.addFilter("markdown", function(markdown) {
+    const md = new markdownIt();
+    return md.renderInline(markdown);
+  })
 
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
@@ -75,8 +81,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
+
   let options = {
     html: true,
     breaks: true,

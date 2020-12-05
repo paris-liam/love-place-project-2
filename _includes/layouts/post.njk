@@ -8,18 +8,11 @@ section: post
     <div class='text-title-header'>
       <h1>{{ title }}</h1>
       <h5>{{ subject }}</h5>
-      <p> {{hookText}}</p>
+      <p>{{ hookText | markdown | safe}}</p>
     </div>
     <img src="{{ image }}"/>
   </div>
   {{ layoutContent | safe }}
-
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
-    </small>
-  </p>
-
 </article>
 
 <nav>

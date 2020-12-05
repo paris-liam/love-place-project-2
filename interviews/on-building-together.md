@@ -1,7 +1,7 @@
 ---
 title: On Building Together
 subject: Tōsh in Vidalia, GA and New Orleans, LA
-hookText: "*Tōsh (they/them) is an educator from Vidalia, Georgia, who currently lives in New Orleans. They’re a doctoral student in urban studies within the City, Culture, and Community program at Tulane University.*"
+hookText: "Tōsh (they/them) is an educator from Vidalia, Georgia, who currently lives in New Orleans. They’re a doctoral student in urban studies within the City, Culture, and Community program at Tulane University."
 image: /static/img/toshphoto.jpg
 date: 2020-09-24T16:24:47.152Z
 ---
