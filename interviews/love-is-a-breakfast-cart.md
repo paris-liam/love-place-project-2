@@ -1,11 +1,6 @@
 ---
 title: On Breakfast Carts and Livelihoods
 subject: John in Hell’s Kitchen, New York City
-hookText: "Before our interview, I met John at 10th Ave. and 57th Street, near
-  his apartment building. He wanted to take me to a tiny Dominican restaurant
-  called Lali: really more of a lunch counter, but with two tables in the back
-  where we could have our conversation. But first, John took me on a stroll down
-  10th Avenue, so that I could see the neighborhood."
 image: /static/img/new-john-m-photo.jpg
 date: 2020-04-29T01:43:00.584Z
 ---

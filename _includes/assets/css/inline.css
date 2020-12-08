@@ -184,7 +184,7 @@ header nav li a[data-current="current item"] img, header nav li a:hover img {
 
 /* Posts List */
 article {
-	margin-bottom: 1em;
+	margin: 0 2em 1em 2em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--four);
