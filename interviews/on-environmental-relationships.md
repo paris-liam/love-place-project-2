@@ -3,6 +3,10 @@ title: On Environmental Relationships
 subject: Franziska in New Orleans, Louisiana
 image: /static/img/franziska-photo.jpeg
 date: 2020-07-15T19:43:16.169Z
+tags:
+  - tag1
+  - tag2
+  - tag3
 ---
 *Franziska is the co-founder and co-director of [Glass Half Full](https://glasshalffullnola.org/), a New Orleans-based initiative that recycles glass waste, converting it into sand to be used for restoration of the Louisiana Gulf Coast. The City of New Orleans does not provide glass recycling, meaning most bottles end up in a landfill.*
 

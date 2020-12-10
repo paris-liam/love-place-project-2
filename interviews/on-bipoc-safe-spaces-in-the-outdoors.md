@@ -3,6 +3,10 @@ title: On Creating Black Spaces, Outdoors
 subject: Debbie in Saint Louis, MO
 image: /static/img/debbiephoto.jpg
 date: 2020-08-19T20:28:09.833Z
+tags:
+  - tag1
+  - tag2
+  - tag3
 ---
 *We’ll start off with a fun question first! What are some of your favorite outdoor spaces around Saint Louis? Or some of your favorite places to explore?*
 

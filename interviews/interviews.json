@@ -1,8 +1,5 @@
 {
     "layout": "layouts/post.njk",
     "permalink": "interviews/{{ title | slug }}/index.html",
-    "tags": [
-      "interviews"
-    ],
     "title": "{{ title }}"
   }

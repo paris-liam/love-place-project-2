@@ -363,6 +363,24 @@ article.post-body > p > img{
 	height: auto;
 }
 
+.tag-list {
+	display: flex;
+	flex-direction: row wrap;
+	justify-content: flex-start;
+	list-style: none;
+}
+
+.tag-list  > .tag {
+	margin-right: 2em;
+	background-color: var(--five);
+	padding: .25em 1em;
+	
+}
+
+.tag-list  > .tag  > a {
+	color: var(--four);
+}
+
 @media screen and (min-width:801px) {
 	:root {
 		font-size: 1.1rem;
