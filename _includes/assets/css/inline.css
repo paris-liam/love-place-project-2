@@ -377,6 +377,10 @@ article.post-body > p > img{
 	
 }
 
+.tag-list  > .tag:first-of-type {
+	display: none;
+}
+
 .tag-list  > .tag  > a {
 	color: var(--four);
 }
