@@ -8,6 +8,10 @@ tags:
   - tag2
   - tag3
 ---
+*Debbie is the creator of [BlackPeopleWhoHike](https://blackpeoplewhohike.com/), a community seeking to inspire people of color to step outside of their comfort zones and get active outside. Their [Instagram](https://www.instagram.com/blackpeoplewhohike/) page posts and promotes images of Black people in the outdoors, with the goal of exposing and normalizing hiking and other outdoor recreation activities.*
+
+<div>✷</div>
+
 *We’ll start off with a fun question first! What are some of your favorite outdoor spaces around Saint Louis? Or some of your favorite places to explore?*
 
 I know a lot of times people think - I know I did - Saint Louis, you’re in the Midwest, there aren’t cool hiking spots. You’re not in the mountains. But we kind of changed that perspective. We use the AllTrails app and search, and there are tons and tons of trails. Castlewood State Park is one of the more mainstream parks around, but it still has a lot to offer. Some of my other ones are Pere Marquette State Park and Salt Lick Point. With the summer though it’s super super hot here, so we’ve been trying to incorporate water. We’ve been kayaking a lot this summer, which is usually about a one or two hour drive outside Saint Louis.
