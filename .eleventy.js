@@ -94,6 +94,24 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
   );
+ 
+  eleventyConfig.addCollection("postTags", function(collectionApi) {
+    // get unsorted items
+    ignoredTags = ['interviews']
+    const everything = collectionApi.getAll();
+    const taglist = new Set(); 
+    everything.forEach((item) => {
+      if(item.data.tags) {
+        const tags  = item.data.tags;
+        tags.forEach((tag) => {
+          taglist.add(tag);
+        });
+      }
+    })
+    return [...taglist].filter( function( el ) {
+      return !ignoredTags.includes( el );
+    } );
+  });
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
