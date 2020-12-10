@@ -368,12 +368,13 @@ article.post-body > p > img{
 	flex-direction: row wrap;
 	justify-content: flex-start;
 	list-style: none;
+	padding: 0;
 }
 
 .tag-list  > .tag {
-	margin-right: 2em;
-	background-color: var(--five);
-	padding: .25em 1em;
+	margin-right: 1em;
+	text-decoration: underline;
+	font-style: italic;
 	
 }
 
