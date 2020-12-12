@@ -1,10 +1,11 @@
 	<div class='tag-selection'>
 		<h3>i'd like to read posts about:</h3>
-		<ul>
+		<select id="tagSelect">
 			{% for tag in collections.postTags %}
-				<li><a href="tags/{{tag}}">{{tag}}</a></li>
+				<option>{{tag}}</option>
 			{% endfor %}
-		</ul>
+		</select>
+
 	</div>
 <section class='post-list'>
 	{% for post in postslist | reverse %}
@@ -15,3 +16,13 @@
 		</div></a>
 	{% endfor %}
 </section>
+<script>
+
+	window.onload = () => {
+		//check href for tags/blank and put into value
+		document.querySelector('#tagSelect').value = "tag3"
+	};
+	document.querySelector('#tagSelect').addEventListener('change', (val) => {
+		window.location.href = `/tags/${val.target.value}` 
+	})
+</script>
