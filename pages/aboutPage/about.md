@@ -12,25 +12,15 @@ Feel free to reach out to us with any thoughts at [placeloveproject@gmail.com](m
 
 ![](/static/img/1kinloch_collage_no_2-1.jpg)
 
-`Image: Kinloch Collage no. 2 (Pawpaw at Boaz Apartments) by Shabez Jamal (2020). From the collection `[`I came back to visit. When I arrived no one was home.`](http://www.shabezj.com/new-page)``
-
-
+`Image: Kinloch Collage no. 2 (Pawpaw at Boaz Apartments) by Shabez Jamal (2020). From the collection`[`I came back to visit. When I arrived no one was home.`](http://www.shabezj.com/new-page)``
 
 ## Why Place/Love?
 
-There is an urgent need for intentional care for Place - meaning not just a physical location, but also the people and culture that populate it. Our Places face significant threats, from urban gentrification to racist policy to wilderness destruction. In a largely enterprise-driven culture, the responsibility is on us to maintain these Places and communities as we know and love them - and improve upon what we don't love.
+The hope of the Place/Love Project is to document what we value in our communities, and to push the conversation forward on how we think about and engage with our physical and social environments. This is an effort to engage in collective, radical [Placemaking](https://www.pps.org/article/what-is-placemaking) that re-imagines our surroundings centered around those values.
 
-Guided by social justice
+Places are more than just locations - they are also the people and cultures that populate these spaces. Places, and the communities that occupy them, face significant threats, from urban gentrification to the destruction of wilderness. Guided by a commitment to social justice, we believe there is an urgent need for intentional care for Place. We hope to amplify these stories, and in doing so, prompt critical thinking on what makes Places and communities stronger.
 
-The hope of the Place/Love Project is to document what we value in and how we care for communities, neighborhoods, and the environment. This is an effort to engage in collective [Placemaking](https://www.pps.org/article/what-is-placemaking) that re-imagines our surroundings centered around those values - a radical, counter-cultural, and important exercise in a world usually centered around capital instead of community.
-
-To read a longer piece about the ideas behind Place/Love and why it is necessary (the Place/Love Manifesto), click [here](/manifesto).
-
-To join our weekly mailing list, which will keep you updated about new Place/Love content, click [here](https://placeloveproject.substack.com/welcome).
-
-And to view the blog and dive into people’s stories, click [here](/).
-
-Feel free to reach out with any thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu).
+To read a little more about the ideas and motivations behind Place/Love, check out [this essay](https://placeloveproject.org/static/files/manifesto.pdf).
 
 ![](/static/img/quote.png)
 
