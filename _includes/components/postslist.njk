@@ -19,8 +19,14 @@
 <script>
 
 	window.onload = () => {
-		//check href for tags/blank and put into value
-		document.querySelector('#tagSelect').value = "tag3"
+		if(window.location.href.includes('tags')) {
+			let tagToHide = window.location.href.split('/');
+			tagToHide = tagToHide[tagToHide.length-1];
+		}
+		let options = document.querySelector('#tagSelect').children;
+		options.forEach(() => {
+			console.log('ok');
+		})
 	};
 	document.querySelector('#tagSelect').addEventListener('change', (val) => {
 		window.location.href = `/tags/${val.target.value}` 
