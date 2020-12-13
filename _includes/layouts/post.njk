@@ -8,11 +8,6 @@ section: post
     <div class='text-title-header'>
       <h1>{{ title }}</h1>
       <h5>{{ subject }}</h5>
-      <ul class='tag-list'>
-      {% for tag in tags %}
-      <li class='tag'><a href="/tags/{{tag}}">{{ tag }}</a></li>
-      {% endfor %}
-      </ul>
     </div>
     <img src="{{ image }}"/>
   </div>
