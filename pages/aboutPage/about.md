@@ -1,14 +1,20 @@
 ---
-title: About the Place/Love Project
+title: "About the Blog:"
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 layout: layouts/about.njk
 ---
 The Place/Love Project is a space for the collective imagining of care for our communities, neighborhoods, and shared physical environments - our Places.
 
-At the heart of the Project is an ongoing series of interviews with an ongoing series of people. Each of these interviews becomes a blog post, all of which you can browse [here](https://placeloveproject.org/). The topics vary, from mutual aid to local cultural history to neighborhood bars and more - all of the things that make Places stronger.
+Our goal is to provide thought-provoking reading material and resources on these subjects. We feature an ongoing series of [interviews](https://placeloveproject.org/) on topics ranging from mutual aid to local cultural history to neighborhood bars and more, as well as essays, books recommendations, and more.
+
+![](/static/img/1kinloch_collage_no_2-1.jpg)
+
+## Why Place/Love?
 
 There is an urgent need for intentional care for Place - meaning not just a physical location, but also the people and culture that populate it. Our Places face significant threats, from urban gentrification to racist policy to wilderness destruction. In a largely enterprise-driven culture, the responsibility is on us to maintain these Places and communities as we know and love them - and improve upon what we don't love.
+
+Guided by social justice
 
 The hope of the Place/Love Project is to document what we value in and how we care for communities, neighborhoods, and the environment. This is an effort to engage in collective [Placemaking](https://www.pps.org/article/what-is-placemaking) that re-imagines our surroundings centered around those values - a radical, counter-cultural, and important exercise in a world usually centered around capital instead of community.
 
