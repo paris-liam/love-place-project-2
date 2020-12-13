@@ -6,9 +6,15 @@ layout: layouts/about.njk
 ---
 The Place/Love Project is a space for the collective imagining of care for our communities, neighborhoods, and shared physical environments - our Places.
 
-Our goal is to provide thought-provoking reading material and resources on these subjects. We feature an ongoing series of [interviews](https://placeloveproject.org/) on topics ranging from mutual aid to local cultural history to neighborhood bars and more, as well as essays, books recommendations, and more.
+Our goal is to provide thought-provoking reading material and resources on these subjects. We feature an ongoing series of [interviews](https://placeloveproject.org/), essays, and book recommendations on topics ranging from mutual aid to local cultural history to neighborhood bars and more.
+
+Feel free to reach out to us with any thoughts at [placeloveproject@gmail.com](mailto:agolio@tulane.edu). And to keep up with new Place/Love content, you can join our weekly mailing list by clicking [here](https://placeloveproject.substack.com/welcome).
 
 ![](/static/img/1kinloch_collage_no_2-1.jpg)
+
+`Image: Kinloch Collage no. 2 (Pawpaw at Boaz Apartments) by Shabez Jamal (2020). From the collection `[`I came back to visit. When I arrived no one was home.`](http://www.shabezj.com/new-page)``
+
+
 
 ## Why Place/Love?
 
