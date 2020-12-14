@@ -26,9 +26,7 @@ To read a little more about the ideas and motivations behind Place/Love, check o
 
 ## About the Blog Creators
 
-[AJ Golio](https://ccc.tulane.edu/content/aj-golio) (he/him; Creator and Co-Producer) is a Sociology PhD student in the City, Culture, and Community program at Tulane University, and a Mellon Community-Engaged Research Fellow. He has lived in Pittsburgh, New York City, and New Orleans, and considers himself a lover of Places both urban and wild.
-
-Ava McLaughlin Gagliardi (she/her; Co-Producer) is studying politics, economics, and sociology at Fordham University in New York City. She has lived in Manhattan for the last three years and previously the Bronx for four. Some of the other Places she has made a home and is rooted deeply in are Dalkey, Ireland; Punta Gorda, Belize; and Wayne, Pennsylvania.
+![](/static/img/ava-mclaughlin-gagliardi-she_her-co-producer-is-studying-politics-economics-and-sociology-at-fordham-university-in-new-york-city.-she-has-lived-in-manhattan-for-the-last-three-years-and-previously-the-bronx-for-1-.png)
 
 [Liam Paris](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
 
