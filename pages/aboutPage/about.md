@@ -26,8 +26,4 @@ To read a little more about the ideas and motivations behind Place/Love, check o
 
 ## About the Blog Creators
 
-![](/static/img/ava-mclaughlin-gagliardi-she_her-co-producer-is-studying-politics-economics-and-sociology-at-fordham-university-in-new-york-city.-she-has-lived-in-manhattan-for-the-last-three-years-and-previously-the-bronx-for-1-.png)
-
-[Liam Paris](https://www.liamparis.com) (he/him) created this website! Forked from template by Dan Urbanowicz.
-
-[MaryKate Glenn](https://www.instagram.com/mkg414/) (she/her) is an artist that drew the logo, lettering, and other artwork on the site.
+![](/static/img/ava-mclaughlin-gagliardi-she_her-co-producer-is-studying-politics-economics-and-sociology-at-fordham-university-in-new-york-city.-she-has-lived-in-manhattan-for-the-last-three-years-and-previously-the-bronx-for-2-.png)
