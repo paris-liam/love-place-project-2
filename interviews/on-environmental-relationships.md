@@ -2,17 +2,20 @@
 title: On Environmental Relationships
 subject: Franziska in New Orleans, Louisiana
 image: /static/img/franziska-photo.jpeg
+hook: "*Franziska is the co-founder and co-director of [Glass Half
+  Full](https://glasshalffullnola.org/), a New Orleans-based initiative that
+  recycles glass waste, converting it into sand to be used for restoration of
+  the Louisiana Gulf Coast. The City of New Orleans does not provide glass
+  recycling, meaning most bottles end up in a landfill.*"
+byLine: Interview conducted by AJ, 6/28/2020
 date: 2020-07-15T19:43:16.169Z
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Environmental Justice
+  - Southern U.S.
 ---
-*Franziska is the co-founder and co-director of [Glass Half Full](https://glasshalffullnola.org/), a New Orleans-based initiative that recycles glass waste, converting it into sand to be used for restoration of the Louisiana Gulf Coast. The City of New Orleans does not provide glass recycling, meaning most bottles end up in a landfill.*
+<div>✷</div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/858578695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/place-love-project" title="Place/Love Project" target="_blank" style="color: #cccccc; text-decoration: none;">Place/Love Project</a> · <a href="https://soundcloud.com/place-love-project/franziska" title="Franziska" target="_blank" style="color: #cccccc; text-decoration: none;">Franziska</a></div>
-
-<div>✷</div>
 
 *I’d love it if you could start by talking a little bit about Glass Half Full: what it is and how it got started?*
 
