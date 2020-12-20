@@ -10,6 +10,9 @@ hook: "*Jim (he/him) is a member of Agape Community’s Mission Council. He is a
   Divinity School in 2013 and his B.A. from Drew University in 2011.*"
 byLine: Interview conducted by Ava, 10/20/20
 date: 2020-11-25T14:36:49.626Z
+tags:
+  - Northeast U.S.
+  - Intentional Community
 ---
 <div>✷</div>
 
