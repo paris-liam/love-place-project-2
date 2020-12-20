@@ -372,6 +372,16 @@ article.post-body > p > img{
 	margin-right: 1em;
 }
 
+.hook-text {
+	text-align: left;
+	font-style: italic;
+}
+
+.byline {
+	text-align: left;
+	font-weight: bold;
+}
+
 @media screen and (min-width:801px) {
 	:root {
 		font-size: 1.1rem;
