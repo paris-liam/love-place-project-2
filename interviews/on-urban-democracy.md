@@ -2,12 +2,15 @@
 title: On Urban Democracy
 subject: Dustin in Mid-City, New Orleans
 image: /static/img/dustin-photo.jpg
+hook: "*Dustin (he/him) is an Urban Studies PhD candidate in Tulane University's
+  City, Culture, and Community program. He studies mobility and planning in
+  cities across the Global North and Global South to ask who is able to make and
+  influence decisions and how.*"
+byLine: Interview conducted by AJ, 9/23/20
 date: 2020-09-30T15:02:59.051Z
+tags:
+  - Southern U.S.
 ---
-*Dustin (he/him) is an Urban Studies PhD candidate in Tulane University's City, Culture, and Community program. He studies mobility and planning in cities across the Global North and Global South to ask who is able to make and influence decisions and how.*
-
-*Interview conducted by AJ, 9.23.2020*
-
 <div>✷</div>
 
 *I wonder if you could start by sharing a little bit about your work and what you research? How is that grounded in your personal experience - or where did those interests sprout from?*
