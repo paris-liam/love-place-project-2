@@ -2,12 +2,15 @@
 title: On Inhabiting Spaces of Celebration and Resistance
 subject: Jim in Hardwick, Massachusetts
 image: /static/img/jim.jpg
+hook: "*Jim (he/him) is a member of Agape Community’s Mission Council. He is a
+  recent graduate (May, 2020) of the doctoral program in Theology at Fordham
+  University. His dissertation is a work of ecotheology that emerges from an
+  engagement with the writings of Rosemary Radford Ruether and Thomas Merton, as
+  well as the embodied practices of Agape. He received his M.T.S. from Harvard
+  Divinity School in 2013 and his B.A. from Drew University in 2011.*"
+byLine: Interview conducted by Ava, 10/20/20
 date: 2020-11-25T14:36:49.626Z
 ---
-*Jim (he/him) is a member of Agape Community’s Mission Council. He is a recent graduate (May, 2020) of the doctoral program in Theology at Fordham University. His dissertation is a work of ecotheology that emerges from an engagement with the writings of Rosemary Radford Ruether and Thomas Merton, as well as the embodied practices of Agape. He received his M.T.S. from Harvard Divinity School in 2013 and his B.A. from Drew University in 2011.*
-
-*Interview conducted by Ava, 10/20/20*
-
 <div>✷</div>
 
 *First, I wanted to ask you, really broadly, what your relationship to place and community is like. And if there are any specific experiences or values that guide that relationship.*
