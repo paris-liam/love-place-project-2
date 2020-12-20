@@ -11,8 +11,8 @@ hook: "*Jim (he/him) is a member of Agape Community’s Mission Council. He is a
 byLine: Interview conducted by Ava, 10/20/20
 date: 2020-11-25T14:36:49.626Z
 tags:
-  - Northeast U.S.
   - Intentional Community
+  - Northeastern U.S.
 ---
 <div>✷</div>
 
