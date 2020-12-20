@@ -1,3 +1,11 @@
+<!--<div class='tag-selection'>
+		<select id="tagSelect">
+			<option default>I'd like to read posts about</option> 
+			{% for tag in collections.postTags %}
+				<option>{{tag}}</option>
+			{% endfor %}
+		</select>
+</div>-->
 <section class='post-list'>
 	{% for post in postslist | reverse %}
 		<a href="{{ post.url | url }}"><div class='post-container' {% if post.url == url %} data-current="current item"{% endif %}>
@@ -7,3 +15,18 @@
 		</div></a>
 	{% endfor %}
 </section>
+<script>
+	window.onload = () => {
+		if(window.location.href.includes('tags')) {
+			let tagToHide = window.location.href.split('/');
+			tagToHide = tagToHide[tagToHide.length-1];
+		}
+		let options = document.querySelector('#tagSelect').children;
+		options.forEach(() => {
+			console.log('ok');
+		})
+	};
+	document.querySelector('#tagSelect').addEventListener('change', (val) => {
+		window.location.href = `/tags/${val.target.value}` 
+	})
+</script> 

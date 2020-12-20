@@ -10,8 +10,8 @@ section: post
       <h5>{{ subject }}</h5>
     </div>
     <img src="{{ image }}"/>
-    <p>{{hook}}</p>
-    <p>{{byline}}</p>
+    <p class="hook-text">{{hook}}</p>
+    <p class="byline">{{byLine}}</p>
     <ul class='tag-list'>
       {% for tag in tags %}
       <li class='tag'><a href="/tags/{{tag}}">{{ tag }}</a></li>
