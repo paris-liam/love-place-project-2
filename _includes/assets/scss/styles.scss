@@ -362,6 +362,8 @@ article.post-body > p > img{
 .tag-selection {
 	display: flex; 
 	align-items: center;
+	justify-content: flex-end;
+	margin-bottom: 2rem;
 }
 
 .tag-selection > h3 {

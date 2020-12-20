@@ -299,11 +299,6 @@ button {
   text-decoration: underline;
 }
 
-article.post-body {
-  max-width: 1000px;
-  margin: auto;
-}
-
 article.post-body > div {
   text-align: center;
 }
@@ -324,7 +319,8 @@ article.post-body > p > img {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 10px;
+  max-width: 1200px;
+  margin-bottom: 60px;
 }
 
 .title-header > img {
@@ -363,15 +359,6 @@ article.post-body > p > img {
   font-style: italic;
 }
 
-.hook-text {
-  text-align: left;
-  font-style: italic;
-}
-.byline {
-  text-align: left;
-  font-weight: bold;
-}
-
 .title-image {
   width: 100%;
   height: auto;
@@ -387,6 +374,7 @@ article.post-body > p > img {
 
 .tag-list > .tag {
   margin-right: 1em;
+  text-decoration: underline;
   font-style: italic;
 }
 
@@ -395,12 +383,14 @@ article.post-body > p > img {
 }
 
 .tag-list > .tag > a {
-  color: var(--one);
+  color: var(--four);
 }
 
 .tag-selection {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
 }
 
 .tag-selection > h3 {
