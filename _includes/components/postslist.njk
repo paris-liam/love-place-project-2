@@ -1,12 +1,12 @@
 
-<!--<div class='tag-selection'>
+<div class='tag-selection'>
 		<select id="tagSelect">
 			<option default>Filter Posts by Topic</option> 
 			{% for tag in collections.postTags %}
 				<option>{{tag}}</option>
 			{% endfor %}
 		</select>
-</div>-->
+</div>
 <section class='post-list'>
 	{% for post in postslist | reverse %}
 		<a href="{{ post.url | url }}"><div class='post-container' {% if post.url == url %} data-current="current item"{% endif %}>
