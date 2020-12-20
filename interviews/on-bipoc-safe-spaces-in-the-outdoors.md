@@ -2,14 +2,18 @@
 title: On Creating Black Spaces, Outdoors
 subject: Debbie in Saint Louis, MO
 image: /static/img/debbiephoto.jpg
+hook: "*Debbie is the creator of
+  [BlackPeopleWhoHike](https://blackpeoplewhohike.com/), a community seeking to
+  inspire people of color to step outside of their comfort zones and get active
+  outside. Their [Instagram](https://www.instagram.com/blackpeoplewhohike/) page
+  posts and promotes images of Black people in the outdoors, with the goal of
+  exposing and normalizing hiking and other outdoor recreation activities.*"
+byLine: Interview conducted by AJ, 7/29/20
 date: 2020-08-19T20:28:09.833Z
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Environmental Justice
+  - Midwestern U.S.
 ---
-*Debbie is the creator of [BlackPeopleWhoHike](https://blackpeoplewhohike.com/), a community seeking to inspire people of color to step outside of their comfort zones and get active outside. Their [Instagram](https://www.instagram.com/blackpeoplewhohike/) page posts and promotes images of Black people in the outdoors, with the goal of exposing and normalizing hiking and other outdoor recreation activities.*
-
 <div>✷</div>
 
 *We’ll start off with a fun question first! What are some of your favorite outdoor spaces around Saint Louis? Or some of your favorite places to explore?*
