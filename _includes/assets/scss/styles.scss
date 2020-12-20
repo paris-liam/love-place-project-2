@@ -1,3 +1,5 @@
+@import '_footer.scss';
+
 :root {
 	--one: rgb(201,107,60);
 	--two: rgb(240,168,112);
@@ -66,37 +68,8 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
-footer {
+header {
 	padding: 1em;
-}
-
-footer {
-	display: flex;
-	justify-content: flex-start;
-	flex-direction: column
-}
-
-footer > iframe {
-	padding: 0;
-	max-width: 300px;
-	border: none;
-	background-color: transparent;
-}
-
-footer > div {
-	margin-bottom: 10px;
-	margin-right: 10px;
-}
-
-footer > div > a[href] {
-	margin-left: 10px;
-	color: var(--six);
-
-}
-
-footer > div > a[href]:hover {
-	color: var(--one);
 }
 
 main {
@@ -403,11 +376,6 @@ article.post-body > p > img{
 	}	
 	main {
 		max-width: 1800px;
-	}
-
-	footer {
-		display: flex;
-		flex-direction: column;
 	}
 }
 

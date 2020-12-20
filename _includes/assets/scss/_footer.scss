@@ -1,0 +1,34 @@
+footer {
+	display: flex;
+	justify-content: flex-start;
+    flex-direction: column;
+    padding: 1rem;
+
+    iframe {
+        padding: 0;
+        border: none;
+        background-color: transparent;
+        margin: auto;
+    }
+    
+    div {
+        margin-bottom: 10px;
+        margin-right: 10px;
+        
+        a[href] {
+            margin-left: 10px;
+            color: var(--six);
+    
+            &:hover {
+                color: var(--one);
+            }
+        }
+    }
+}
+
+@media screen and (min-width:801px) {
+	footer {
+		display: flex;
+		flex-direction: column;
+	}
+}
