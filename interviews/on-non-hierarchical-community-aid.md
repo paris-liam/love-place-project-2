@@ -2,12 +2,19 @@
 title: On Non-Hierarchical Community Aid
 subject: SG in Washington Heights, NYC
 image: /static/img/fridgephoto2.jpg
+hook: >-
+  *SG is one of the organizers behind the Uptown Fridge, a 24/7 community fridge
+  with free food items located between the uptown Manhattan neighborhoods of
+  Inwood and Washington Heights.*
+
+
+  *NOTE: the photo included is not of SG - in an effort to keep the focus on the collective and not one person, we've chosen a more generic photo of the Fridge. Plus, I wanted to include that phrase: 'La comunidad se cuida y se ama.'*
+byLine: Interview conducted by AJ, 8/1/20
 date: 2020-08-26T16:54:18.346Z
+tags:
+  - Mutual Aid
+  - Northeastern U.S.
 ---
-*SG is one of the organizers behind the Uptown Fridge, a 24/7 community fridge with free food items located between the uptown Manhattan neighborhoods of Inwood and Washington Heights.*
-
-*NOTE: the photo included is not of SG - in an effort to keep the focus on the collective and not one person, we've chosen a more generic photo of the Fridge. Plus, I wanted to include that phrase: 'La comunidad se cuida y se ama.'*
-
 <div>✷</div>
 
 *To start off, I love to talk about neighborhood. Could you tell me a little bit about Washington Heights, through your experience? What do you love about it?*
