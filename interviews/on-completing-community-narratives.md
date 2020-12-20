@@ -10,9 +10,11 @@ hook: "Ms. Carol Bebelle (she/her), usually known as Mama Carol or Mz. B, is a
   a Manner of Speaking,” and featured work in the collections “Civic Engagement
   in the Wake of Katrina” and “Didn’t Wash Us Away: Transformative Stories of
   Post-Katrina Cultural Resilience.”"
-byLine: Interview conducted by AJ, 11/24/2020
+byLine: Interview conducted by AJ, 11/24/20
 date: 2020-12-17T19:39:37.378Z
-tags: []
+tags:
+  - Community Organizing
+  - Southern U.S.
 ---
 <div>✷</div> 
 
