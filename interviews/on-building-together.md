@@ -2,14 +2,14 @@
 title: On Building Together
 subject: Tōsh in Vidalia, GA and New Orleans, LA
 image: /static/img/toshphoto.jpg
+hook: "*Tōsh (they/them) is an educator from Vidalia, Georgia, who currently
+  lives in New Orleans. They’re a doctoral student in urban studies within the
+  City, Culture, and Community program at Tulane University.*"
+byLine: Interview conducted by AJ, 9/15/20
 date: 2020-09-24T16:24:47.152Z
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Southern U.S.
 ---
-*Tōsh (they/them) is an educator from Vidalia, Georgia, who currently lives in New Orleans. They’re a doctoral student in urban studies within the City, Culture, and Community program at Tulane University.*
-
 <div>✷</div>
 
 *I was interested to chat because in your research interests you mention urban development and specifically its effect on rural places. But I’d love to start with your personal experience of that. Could you talk about having a more rural upbringing and then transitioning to urban environments later on?*
