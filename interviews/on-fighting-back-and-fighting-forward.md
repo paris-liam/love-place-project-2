@@ -2,12 +2,15 @@
 title: On Fighting Back and Fighting Forward
 subject: Gregory in Bedford Park, the Bronx
 image: /static/img/image-1058.jpg
+hook: "*Gregory (he/him) is an educator, organizer and researcher writing about
+  race and place and how the people of the Bronx fought back against
+  redlining.*"
+byLine: Interview conducted by Ava 10/2/20
 date: 2020-10-13T16:05:36.478Z
+tags:
+  - Community Organizing
+  - Northeastern U.S.
 ---
-*Gregory (he/him) is an educator, organizer and researcher writing about race and place and how the people of the Bronx fought back against redlining.*
-
-*Interview conducted by Ava, 10.2.2020* 
-
 <div>✷</div>
 
 *Can you tell me about your neighborhood through your experience?*
