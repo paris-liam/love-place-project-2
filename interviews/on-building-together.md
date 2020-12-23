@@ -8,6 +8,8 @@ hook: "*Tōsh (they/them) is an educator from Vidalia, Georgia, who currently
 byLine: Interview conducted by AJ, 9/15/20
 date: 2020-09-24T16:24:47.152Z
 tags:
+  - Intentional Community
+  - Rural Spaces
   - Southern U.S.
 ---
 <div>✷</div>
