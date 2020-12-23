@@ -11,6 +11,7 @@ byLine: Interview conducted by AJ, 6/28/20
 date: 2020-07-15T19:43:16.169Z
 tags:
   - Environmental Justice
+  - Non-Profit Organizations
   - Southern U.S.
 ---
 <div>✷</div>
