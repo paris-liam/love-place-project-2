@@ -2,12 +2,24 @@
 title: On Moveable Apartments
 subject: Mika in Hamilton Heights, New York City
 image: /static/img/mika-photo.jpeg
+hook: >-
+  *Mika told me about the artist Do Ho Suh during our interview. We had been
+  talking about the Places that Mika has lived: Tokyo, California, New York. She
+  brought up Suh’s [recent exhibition at the Brooklyn
+  Museum](https://www.brooklynmuseum.org/exhibitions/one_do_ho_suh), which
+  consisted of a full-scale replica of the artist’s former apartment, made
+  entirely from cloth and therefore portable. In this way, home could be carried
+  with him, anywhere.*
+
+
+  *This sentiment was present in my conversation with Mika. Even if home isn’t carried in a literal, physical sense (she doesn’t have a cloth sculpture of her apartment, so far as I know), home is carried internally, in culture, attitude, and what Mika refers to at one point as a sense of what is ‘normal’. In this sense, each of us is an amalgam of the Places that have been significant to us. Much of what we reflect on below is what happens when we enter new spaces and make new homes, while still carrying with us the old ones. It requires, as Mika calls it, a sense of mindfulness:*
+byLine: Interview conducted by AJ, 5/10/20
 date: 2020-05-21T16:25:25.504Z
+tags:
+  - Art, Music, Culture
+  - Spirituality + Simplicity
+  - Northeastern U.S.
 ---
-*Mika told me about the artist Do Ho Suh during our interview. We had been talking about the Places that Mika has lived: Tokyo, California, New York. She brought up Suh’s [recent exhibition at the Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/one_do_ho_suh), which consisted of a full-scale replica of the artist’s former apartment, made entirely from cloth and therefore portable. In this way, home could be carried with him, anywhere.*
-
-*This sentiment was present in my conversation with Mika. Even if home isn’t carried in a literal, physical sense (she doesn’t have a cloth sculpture of her apartment, so far as I know), home is carried internally, in culture, attitude, and what Mika refers to at one point as a sense of what is ‘normal’. In this sense, each of us is an amalgam of the Places that have been significant to us. Much of what we reflect on below is what happens when we enter new spaces and make new homes, while still carrying with us the old ones. It requires, as Mika calls it, a sense of mindfulness:*
-
 <div>✷</div>
 
 I’ve lived Uptown since I graduated \[college]. I was in Harlem proper at 126th, right off the 1 train on 125th, for a year. And then my roommates were moving out so it was just time for that to end. So I moved into a duplex with four people in an apartment further Uptown, still on the West side. I lived there for, god, three years? No, two years in the duplex, and then coming up on our second year in my current apartment, but we literally moved across the street. So all of that to say: I really like Uptown. I just for some reason really like being on the island of Manhattan, and I like that there’s a lot of families. It still feels much more relaxed than being in downtown Manhattan, but still with the ease of getting around. And it’s lovely to be near the river. I think it’s a good combination of accessible, but still very community-oriented. And I like being away from places that I work. When I worked in fashion, I feel like everyone lived in the same parts of Brooklyn. So I liked being a little bit outside of that and having my own neighborhood, because I’d still go see friends in Brooklyn. Then it’s also an advantage because I know a lot of parts of Brooklyn well because I visit my friends so often, but I also have this other part of Manhattan that I’ve grown to really love and get to know well.
