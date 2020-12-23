@@ -13,6 +13,7 @@ byLine: Interview conducted by AJ, 8/1/20
 date: 2020-08-26T16:54:18.346Z
 tags:
   - Mutual Aid
+  - Non-Profit Organizations
   - Northeastern U.S.
 ---
 <div>✷</div>
