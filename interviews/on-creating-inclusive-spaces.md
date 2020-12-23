@@ -2,12 +2,17 @@
 title: On Creating Inclusive Spaces
 subject: Dominique in Queen Village, Philadelphia
 image: /static/img/dominique-photo.jpg
+hook: "*Dominique is a yoga and meditation guide, and the creator of
+  [Unjar](https://www.instagram.com/unjar.co/), a space to preserve and grow
+  wellness in communities.*"
+byLine: Interview conducted by AJ, 5/23/20
 date: 2020-06-10T19:23:01.534Z
 tags:
+  - Spirituality + Simplicity
+  - Intentional Community
+  - Northeastern U.S.
 ---
-*Dominique is a yoga and meditation guide, and the creator of Unjar, a space to preserve and grow wellness in communities.*
-
-✷
+<div>✷</div>
 
 *I thought it would be really interesting to talk to you about creating space. I’d love to start there: I’d love to hear you describe Unjar and that concept of creating space.*
 
