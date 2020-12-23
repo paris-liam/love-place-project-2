@@ -9,6 +9,9 @@ hook: "*Dustin (he/him) is an Urban Studies PhD candidate in Tulane University's
 byLine: Interview conducted by AJ, 9/23/20
 date: 2020-09-30T15:02:59.051Z
 tags:
+  - Cities + Urban Spaces
+  - Community Organizing
+  - Academic Research
   - Southern U.S.
 ---
 <div>✷</div>
