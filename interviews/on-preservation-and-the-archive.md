@@ -2,12 +2,18 @@
 title: On Preservation and the Archive
 subject: Shabez in Kinloch, Missouri
 image: /static/img/shabezphoto.jpg
+hook: "*[Shabez](http://shabezj.com/) (he/him/they/them) is an interdisciplinary
+  artist from Kinloch, MO, whose work interrogates physical, political, and
+  social-economical space by using queerness, not as a means of speaking about
+  sexuality, but as a catalyst to challenge varying power relations. Now based
+  in New Orleans, he is an MFA candidate at Tulane University.*"
+byLine: Interview conducted by AJ, 10/16/20
 date: 2020-10-28T02:04:34.033Z
+tags:
+  - Art, Music, Culture
+  - Neighborhoods
+  - Midwestern U.S.
 ---
-*[Shabez](http://shabezj.com/) (he/him/they/them) is an interdisciplinary artist from Kinloch, MO, whose work interrogates physical, political, and social-economical space by using queerness, not as a means of speaking about sexuality, but as a catalyst to challenge varying power relations. Now based in New Orleans, he is an MFA candidate at Tulane University.*
-
-*Interview conducted by AJ, 10.16.20*
-
 <div>✷</div>
 
 *Let’s start out kind of open-ended: could you share a little bit about Kinloch?*
