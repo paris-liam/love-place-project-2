@@ -12,6 +12,7 @@ byLine: Interview conducted by Ava, 10/20/20
 date: 2020-11-25T14:36:49.626Z
 tags:
   - Intentional Community
+  - Spirituality + Simplicity
   - Northeastern U.S.
 ---
 <div>✷</div>
