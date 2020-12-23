@@ -2,12 +2,24 @@
 title: On Stewarding Stolen Land As Displaced People
 subject: Rel in Fairview, North Carolina
 image: /static/img/rel-b.png
+hook: "*Rel (they/them) is a question-asker, mistake-maker, forager, and farmer
+  in pursuit of an aligned life. Rel is currently exploring ancient hebraic
+  timescapes, ritual candle making, and place-based community building as a
+  praxis through which they can unravel whiteness, discover authentic ways of
+  being, and practice right relation to humans and land in the pursuit of
+  collective liberation. Rel can either be found dancing to Rihanna, taking
+  casual conversations to a \\*deeply\\* personal place, or asking annoyingly
+  unanswerable questions. Find Rel on Instagram at @relbrender.*"
+byLine: Interview conducted by Ava, 10/20/20
 date: 2020-11-11T03:04:04.448Z
+tags:
+  - Farming + Care for Land
+  - Intentional Community
+  - Spirituality + Simplicity
+  - Environmental Justice
+  - Rural Spaces
+  - Southern U.S.
 ---
-*Rel (they/them) is a question-asker, mistake-maker, forager, and farmer in pursuit of an aligned life. Rel is currently exploring ancient hebraic timescapes, ritual candle making, and place-based community building as a praxis through which they can unravel whiteness, discover authentic ways of being, and practice right relation to humans and land in the pursuit of collective liberation. Rel can either be found dancing to Rihanna, taking casual conversations to a \*deeply\* personal place, or asking annoyingly unanswerable questions. Find Rel on Instagram at @relbrender.* 
-
-*Interview conducted by Ava, 10/20/20*
-
 <div>✷</div>
 
 *To start, I just want to know where you are right now. You can answer that as the physical place or the community that you're a part of. But broadly, where you are now and what brought you there?*
