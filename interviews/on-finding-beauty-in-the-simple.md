@@ -2,13 +2,20 @@
 title: On Finding Beauty in the Simple
 subject: Leo in Scranton, Pennsylvania
 image: /static/img/leo-photo.jpg
+hook: "*Leo is the creator of Peach Baskets, an
+  [Instagram](https://www.instagram.com/peachbaskets/) account and photo
+  collection of basketball hoops from all around the world.*"
+byLine: Interview conducted by AJ, 5/29/20
 date: 2020-07-02T18:28:08.333Z
+tags:
+  - Spirituality + Simplicity
+  - Art, Music, Culture
+  - Rural Spaces
+  - Northeastern U.S.
 ---
-*Leo is the creator of Peach Baskets, an [Instagram](https://www.instagram.com/peachbaskets/) account and photo collection of basketball hoops from all around the world.*
+<div>✷</div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/851019469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/place-love-project" title="Place/Love Project" target="_blank" style="color: #cccccc; text-decoration: none;">Place/Love Project</a> · <a href="https://soundcloud.com/place-love-project/leo-w-1" title="Leo W" target="_blank" style="color: #cccccc; text-decoration: none;">Leo W</a></div>
-
-<div>✷</div>
 
 *One of the reasons why I wanted to talk to you was Peach Baskets. I read the book and loved it, and I feel like it’s a project that’s closely aligned with Place/Love. I’d love to start by just asking, what was the story behind that? How did it start?*
 
