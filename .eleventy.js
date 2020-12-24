@@ -33,6 +33,11 @@ module.exports = function(eleventyConfig) {
     return md.renderInline(markdown);
   })
 
+  eleventyConfig.addFilter("hookFilter", function(markdown) {
+    const md = new markdownIt();
+    return md.renderInline(markdown);
+  })
+
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");

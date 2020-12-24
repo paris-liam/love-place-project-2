@@ -2,7 +2,6 @@
 layout: layouts/base.njk
 section: post
 ---
-
 <article class='post-body'>
   <div class='title-header'>
     <div class='text-title-header'>
@@ -10,7 +9,7 @@ section: post
       <h5>{{ subject }}</h5>
     </div>
     <img src="{{ image }}"/>
-    <p class="hook-text">{{hook | safe}}</p>
+    <p class="hook-text">{{ hook | hookFilter }}</p>
     <p class="byline">{{byLine}}</p>
     <ul class='tag-list'>
       {% for tag in tags %}
@@ -24,3 +23,11 @@ section: post
 <nav>
   <a href="{{ '/' | url }}">← More Interviews</a>
 </nav>
+
+<script>
+  let hook = document.querySelector('.hook-text');
+  let span = document.createElement('span');
+  let hookText = hook.innerHTML;
+  hook.innerHTML = '';
+  hook.innerHTML = hookText.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
+</script>
