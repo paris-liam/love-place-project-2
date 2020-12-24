@@ -2,10 +2,22 @@
 title: On Manifesting a Healthy Future
 subject: Ayanna in Co-op City, the Bronx
 image: /static/img/ayanna-photo.jpg
+hook: "*[Ayanna](https://www.instagram.com/ayannathesinger/) is a R&B
+  Singer-Songwriter from the Bronx. After performing in musicals around the
+  city, Ayanna decided to focus on her own original music in 2016. She currently
+  has two EPs on streaming services,
+  [Delicate](https://open.spotify.com/album/08BPGFt1huJ4wWcTeDix0m) and [Love
+  Box](https://open.spotify.com/album/3CkUlIBwybLnGRWVGBXRtO). Her sound has
+  been compared to Jill Scott and Mary J. Blige. In addition to sharing her joy
+  of music, she also is an advocate for wellness and self-love.*"
+byLine: Interview conducted by AJ, 6/23/20
 date: 2020-07-08T14:21:04.793Z
+tags:
+  - Art, Music, Culture
+  - Neighborhoods
+  - Spirituality + Simplicity
+  - Northeastern U.S.
 ---
-*[Ayanna](https://www.instagram.com/ayannathesinger/) is a R&B Singer-Songwriter from the Bronx. After performing in musicals around the city, Ayanna decided to focus on her own original music in 2016. She currently has two EPs on streaming services, [Delicate](https://open.spotify.com/album/08BPGFt1huJ4wWcTeDix0m) and [Love Box](https://open.spotify.com/album/3CkUlIBwybLnGRWVGBXRtO). Her sound has been compared to Jill Scott and Mary J. Blige. In addition to sharing her joy of music, she also is an advocate for wellness and self-love.*
-
 <div>✷</div>
 
 *I’d love to hear you talk a little more about Co-op City, growing up there, and what you think of the community and the neighborhood?*

@@ -2,14 +2,17 @@
 title: On Being Wondered
 subject: Ava in Harlem, New York City
 image: /static/img/ava-photo.jpg
+hook: "*Before moving back to New York, Ava lived for two years in a town called
+  Punta Gorda, in the Central American country of Belize. I was curious to chat
+  with her because of this transition, which to me appears so difficult - from a
+  town of about 5,000 to a city of over 8,000,000.*"
+byLine: Interview conducted by AJ, 1/9/20
 date: 2020-04-28T22:38:24.584Z
+tags:
+  - Spirituality + Simplicity
+  - Cities + Urban Spaces
+  - Northeastern U.S.
 ---
-*Before moving back to New York, Ava lived for two years in a town called Punta Gorda, in the Central American country of Belize. I was curious to chat with her because of this transition, which to me appears so difficult - from a town of about 5,000 to a city of over 8,000,000. I wanted to see if how she connected to Place was different in each location.*
-
-*It didn’t seem that way. One word that came up toward the end of our conversation (included in the transcribed version below) is wonder. Throughout the interview, it became clear to me that wonder guides most of Ava’s interactions with Place, whether in Punta Gorda or Harlem. It carries through our conversation, whether she’s talking about the residents of her apartment building, or later, the history and community that binds Harlem as a whole.*
-
-*Wonder, to me, is a great way to practice Place/Love. It speaks to a certain amount of reverence and intentionality in our approaches to Places and their current and former residents. Wonder describes well what I feel when I stumble across old, old pictures of my neighborhood from way back when. It helps me to realize that it’s not just about me, my needs, and my interactions with a Place - that there is a long history to be honored, spanning across previous urban generations, as well as the Native communities that lived on the land pre-colonization. Wonder is one of the only words I can use to wrap my head around so long a legacy of Place.*
-
 <div>✷</div>
 
 *So to start with: what do you love about where you live, and particularly focusing on, you know, maybe not the big obvious things that might come to mind at first but the more small moments.*

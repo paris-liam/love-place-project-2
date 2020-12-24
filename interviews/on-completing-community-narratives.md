@@ -2,18 +2,22 @@
 title: On Completing Community Narratives
 subject: "Carol in Central City, New Orleans "
 image: /static/img/image.png
-hook: "Ms. Carol Bebelle (she/her), usually known as Mama Carol or Mz. B, is a
+hook: "*Ms. Carol Bebelle (she/her), usually known as Mama Carol or Mz. B, is a
   native New Orleanian, cultural and racial healer, and community organizer. In
   1998, she co-founded the Ashé Cultural Arts Center, with the goal of creating
   art connected to civic engagement and reflective of the surrounding Black
   community. She is also a writer of poetry and essays, with a book entitled “In
   a Manner of Speaking,” and featured work in the collections “Civic Engagement
   in the Wake of Katrina” and “Didn’t Wash Us Away: Transformative Stories of
-  Post-Katrina Cultural Resilience.”"
+  Post-Katrina Cultural Resilience.”*"
 byLine: Interview conducted by AJ, 11/24/20
 date: 2020-12-17T19:39:37.378Z
 tags:
+  - Art, Music, Culture
   - Community Organizing
+  - Racial Geographies
+  - Cities + Urban Spaces
+  - Non-Profit Organizations
   - Southern U.S.
 ---
 <div>✷</div> 

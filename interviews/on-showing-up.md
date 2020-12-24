@@ -2,17 +2,28 @@
 title: On Showing Up
 subject: "#JusticeforGeorgeFloyd Protesters in Pittsburgh, PA"
 image: /static/img/protest-photo.png
-date: 2020-06-01T03:00:15.954Z
----
-*The Place/Love Project is taking a break this week from posting a normal interview to instead post a collective one. The following quotes were collected from about a dozen anonymous people at the #JusticeforGeorgeFloyd demonstrations in Pittsburgh, PA, on Saturday, May 30th. For their safety, no names or photos were collected.*
+hook: >-
+  *The Place/Love Project is taking a break this week from posting a normal
+  interview to instead post a collective one. The following quotes were
+  collected from about a dozen anonymous people at the #JusticeforGeorgeFloyd
+  demonstrations in Pittsburgh, PA, on Saturday, May 30th. For their safety, no
+  names or photos were collected.*
 
-*The intention of this blog is a humanist one: to spotlight an ongoing series of people, real people, and find out how they seek to better their neighborhoods and re-imagine their communities. The media narratives around these protests have been particularly de-humanizing: looters, rioters, thugs. They showed up for no reason other than to cause trouble; they are an angry mob with no discernable demands. But the words of these demonstrators, a small snapshot of which are assembled here, show quite the opposite. Their reasons for being out on the street were numerous and well-founded; they were able to provide reasonable and actionable requests.*
+
+  *The intention of this blog is a humanist one: to spotlight an ongoing series of people, real people, and find out how they seek to better their neighborhoods and re-imagine their communities. The media narratives around these protests have been particularly de-humanizing: looters, rioters, thugs. They showed up for no reason other than to cause trouble; they are an angry mob with no discernable demands. But the words of these demonstrators, a small snapshot of which are assembled here, show quite the opposite. Their reasons for being out on the street were numerous and well-founded; they were able to provide reasonable and actionable requests.*
+
+
+  *I didn’t go to the protests to create this blog piece. I went to protest, and ended up having these conversations while I was there. What I witnessed were incredible acts of community-building, despite overwhelming media focus on physical destruction. Why? Because as I've been reminded by several think-pieces and social media posts, militarized and oppressive police harm our communities. Place/Love is about the opposite - strengthening communities. Showing up for our neighbors is always necessary, and sometimes, that takes the form of direct action.*
+byLine: Interviews conducted by AJ, 5/30/20
+date: 2020-06-01T03:00:15.954Z
+tags:
+  - Community Organizing
+  - Racial Geographies
+  - Northeastern U.S.
+---
+<div>✷</div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/831952735&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/place-love-project" title="Place/Love Project" target="_blank" style="color: #cccccc; text-decoration: none;">Place/Love Project</a> · <a href="https://soundcloud.com/place-love-project/interviews-with-justiceforgeorgefloyd-demonstrators" title="Interviews with #JusticeforGeorgeFloyd Demonstrators" target="_blank" style="color: #cccccc; text-decoration: none;">Interviews with #JusticeforGeorgeFloyd Demonstrators</a></div>
-
-*I didn’t go to the protests to create this blog piece. I went to protest, and ended up having these conversations while I was there. What I witnessed were incredible acts of community-building, despite overwhelming media focus on physical destruction. Why? Because as I've been reminded by several think-pieces and social media posts, militarized and oppressive police harm our communities. Place/Love is about the opposite - strengthening communities. Showing up for our neighbors is always necessary, and sometimes, that takes the form of direct action.*
-
-<div>✷</div>
 
 *Why was it important to you to show up today?*
 
@@ -66,4 +77,4 @@ I’m just here to amplify their \[people of colors’] voices, because they des
 
 <div>✷</div>
 
-*I strongly encourage you, if you are able, to financially support black-organized coalitions and efforts. Here a just a few examples, the first two of which focus on Pittsburgh specifically, because that's where these interviewees are:* [](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2)*[Bukit Bail Fund](https://www.bukitbailfund.org/donate), [](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2)[this bail fund](https://www.gofundme.com/f/aftercare-for) organized by Jail Break, and a [Minneapolis gas mask fund](https://twitter.com/BaconTribe/status/1266897075456917504). Please, stay safe as you show up.*
+*I strongly encourage you, if you are able, to financially support black-organized coalitions and efforts. Here a just a few examples, the first two of which focus on Pittsburgh specifically, because that's where these interviewees are:* [](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2)*[Bukit Bail Fund](https://www.bukitbailfund.org/donate),* [](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2)*[this bail fund](https://www.gofundme.com/f/aftercare-for) organized by Jail Break, and a [Minneapolis gas mask fund](https://twitter.com/BaconTribe/status/1266897075456917504). Please, stay safe as you show up.*

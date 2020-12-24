@@ -2,22 +2,22 @@
 title: On Breakfast Carts and Livelihoods
 subject: John in Hell’s Kitchen, New York City
 image: /static/img/new-john-m-photo.jpg
+hook: "*John is a life-long resident of New York City, and know it as well as
+  just about anybody (for him, it’s a labor of love). We met for this interview
+  at a tiny Dominican restaurant called Lali at 10th Avenue and 57th Street,
+  where bodegas and holes-in-the-wall still rule, but are threatened by the
+  luxury housing retail mega-development Hudson Yards, just ten blocks away.*"
+byLine: Interview conducted by AJ, 1/11/20
 date: 2020-04-29T01:43:00.584Z
 tags:
+  - Cities + Urban Spaces
+  - Local Food + Drink
+  - Neighborhoods
+  - Northeastern U.S.
 ---
-
-*Before our interview, I met John at 10th Ave. and 57th Street, near his apartment building. He wanted to take me to a tiny Dominican restaurant called Lali: really more of a lunch counter, but with two tables in the back where we could have our conversation. But first, John took me on a stroll down 10th Avenue, so that I could see the neighborhood.* 
-
-*It is an interesting little slice of New York: as John was quick to point out, just one block over on 9th there is a totally different feel, and a significantly more advanced stage of West Side gentrification. 9th has the trendy bars, the clubs and more expensive eateries. Here on 10th, bodegas and holes-in-the-wall still rule… for now. Lali is only ten blocks from the mammoth new luxury housing and retail development Hudson Yards (which John and I share a great distaste for), and the area is quickly changing. Talking with John about the delis he frequents on 10th, his memories of different stops off the 7 train, and the dueling piano bar he likes to go to (Bar Nine), it’s clear that he seeks out lively, authentic Places, full of small businesses and people who know each other's names. Our destination, Lali, was no different - and he doesn’t want it to go.*
-
+<div>✷</div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810149401&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/place-love-project" title="Place/Love Project" target="_blank" style="color: #cccccc; text-decoration: none;">Place/Love Project</a> · <a href="https://soundcloud.com/place-love-project/john-m" title="John M" target="_blank" style="color: #cccccc; text-decoration: none;">John M</a></div>
-
-*John is a life-long resident of New York City. He grew up in Queens, went to high school on the Upper East Side, college in the Bronx, and now lives in a corner of Hell’s Kitchen. John knows NYC as well as just about anybody (for him, it’s a labor of love), and knows what he values in a neighborhood. I am reminded here of the concept of [Placemaking](https://www.pps.org/article/what-is-placemaking), an act of imagining what shared space could be when realigned to reflect these values. John told me about where he lived, but also areas of the city he admires (where this text picks up). This conversation reflects engaged Placemaking, I believe, through words like organic, belonging, and responsibility.*
-
-*While reading it, imagine plates of chicken stew and rice and beans sitting in front of us:*
-
-<div>✷</div>
 
 You wanna talk about where I want to be? More and more, especially coming to visit you and the whole apartment up on Arden, I love Inwood. I had never known that neighborhood except to go to the cloisters or fort tryon park maybe once every couple of years. But I had never walked around like Dyckman street or stuff like that, and I love it so much. It’s different as a man, because I can walk around freely at night and just enjoy the scene and everybody partying and clubs going on, people just smoking and playing dice in the street. But I do, it’s got character, it’s got flavor. People are out and want to be there and know their neighbors and stuff like that. It was kind of like that in Queens and I look back and I’m like, wait a second, I know everybody in my apartment building and there were familiar faces out on the block I would see. And I knew them, they knew me, and we didn’t know each other’s names but we would always say hi. You know, there was this one guy who said say hi to your dad for me. I had no idea who he was but every time I saw him on the block walking home from high school or something, say hi to your dad for me. If I knew who you were I would, but right now I’m just going to tell my dad some guy said hi to you. Where I live now, especially at the Northwestern tip of Hell’s Kitchen - it’s not even Hell’s Kitchen, it’s some weird Midtown West. 
 
@@ -44,6 +44,8 @@ Yeah, the businesses, the ventures. I could talk about picking up litter or some
 <div>✷</div>
 
 *This love of food happens to be something that John and I share, so from here the interview mostly devolved into talking about that. We disagreed on the maximum price that a slice of pizza should cost (I am willing to accept $2.50, John is irked by anything above $2). We chatted about halal carts, and the best places to eat in Sunnyside (John’s recommendation: La Pollera de Mario on Greenpoint Ave.).*
+
+*For Reflection:*
 
 *The essentials of Placemaking are not only to share what should be sought out in a neighborhood, and imagining what a Place could be. It also includes pondering the application, or how to achieve it, like John’s quest to support the establishments he’d like to see more of. I invite you to engage in a bit of Placemaking yourself: what is it that you like about a neighborhood, and how can you be part of that change?*
 

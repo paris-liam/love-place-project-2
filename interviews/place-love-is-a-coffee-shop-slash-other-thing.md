@@ -2,12 +2,17 @@
 title: On Being Rooted through Transition
 subject: Niara in Crown Heights, Brooklyn
 image: /static/img/niara-photo.jpg
+hook: "*Niara has always had an interesting relationship to Place, having been
+  raised in a military family and moving around a lot through her childhood. The
+  past year, as well, has seen a lot of moving around, as she’s lived in five
+  different apartments in five different neighborhoods.*"
+byLine: Interview conducted by AJ, 1/16/20
 date: 2020-05-05T20:50:51.806Z
+tags:
+  - Neighborhoods
+  - Racial Geographies
+  - Northeastern U.S.
 ---
-*I met Niara for a drink around Houston Street in Manhattan - this seemed like a good compromise location for us, given that I lived all the way up near Washington Heights and she was out in Brooklyn. I was interested to speak with Niara because I knew that she had always had an interesting relationship to Place, having been raised in a military family and moving around a lot through her childhood. The past year, as well, has seen a lot of moving around, as she’s lived in five different apartments in five different neighborhoods.*
-
-*Niara’s stories of trying to lay roots despite all of the transition did not disappoint, and that’s where our conversation picks up below:*
-
 <div>✷</div>
 
 I’m in Crown Heights right now. At the border between Bed-Stuy and Crown Heights. But there was a ton of subletting last year, so it was a very tumultuous kind of year. I was in a weird living situation. My roommate was like 48 years old, and she moved both her parents in without my permission basically. So it was me, her, and another girl who was about my age. But then this woman, who had been there the longest, was like my parents are going to stay with us, I don’t know for how long, definitely less than a year. And then moved them in rent-free.

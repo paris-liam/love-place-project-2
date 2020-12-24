@@ -2,14 +2,21 @@
 title: On Communal Watering Holes
 subject: Tim in Gowanus, Brooklyn
 image: /static/img/tim-photo.jpg
+hook: >-
+  *Tim works at Brooklyn Brewery, and is passionate about bringing people
+  together. He also, with a couple friends, hosts a monthly variety show,
+  featuring local musicians, comedians, and really anybody else who has
+  something to say.*
+
+
+  *I read an [article](https://stories.zagat.com/posts/t-cole-newton-on-the-importance-of-neighborhood-dive-bars) recently written by the owner of one of my favorite bars in New Orleans - one of my favorites mostly because it was one of my local neighborhood dives, located just blocks from my apartment. Cole, the owner, writes about the importance of these types of bars - accessible spaces to spend time together as a community. I was reminded of sociologist Eric Klinenberg’s work on ‘social infrastructure’ in his book* Palaces for the People *(2018), except where Klinenberg writes about libraries as bastions of communal programming, Cole writes of dive bars as cheap locations for getting a little red in the face and chatting a little too loudly with your neighbors. Both and, is my answer. Let’s keep them both: they’re equally worthy.*
+byLine: Interview conducted by AJ, 5/21/20
 date: 2020-05-28T01:07:36.397Z
+tags:
+  - Local Food + Drink
+  - Neighborhoods
+  - Northeastern U.S.
 ---
-*I’ve always known Tim as a guy who loves bringing people together. He works in beer, which is another way of saying: his job is to sell something that facilitates interaction. He also, with a couple friends, hosts a monthly variety show, featuring local musicians, comedians, and really anybody else who has something to say. I wanted to know what he thought about Places, and how they too can bring people together.*
-
-*I read an [article](https://stories.zagat.com/posts/t-cole-newton-on-the-importance-of-neighborhood-dive-bars) recently written by the owner of one of my favorite bars in New Orleans - one of my favorites mostly because it was one of my local neighborhood dives, located just blocks from my apartment. Cole, the owner, writes about the importance of these types of bars - accessible spaces to spend time together as a community. I was reminded of sociologist Eric Klinenberg’s work on ‘social infrastructure’ in his bookPalaces for the People(2018), except where Klinenberg writes about libraries as bastions of communal programming, Cole writes of dive bars as cheap locations for getting a little red in the face and chatting a little too loudly with your neighbors. Both and, is my answer. Let’s keep them both: they’re equally worthy.*
-
-*Especially in the midst of the uncertainty of the pandemic, it’s crucial to take stock of the Places we need to stick around, for the sake of social and community cohesion. Luckily, Tim was on a similar wavelength, touching on these things and more (like taco trucks, somehow) in his interview:*
-
 <div>✷</div>
 
 I’m very literally on the boundary between Gowanus and Park Slope. I’m on the Eastern side of Fourth Avenue, which is generally the demarcation line. It’s all technically part of the Gowanus watershed, but nobody cares about that when they’re filling out an address card. When I first moved in, no matter who I told my address to, people would have opinions about where I actually lived. Half the time it was like, that’s Park Slope, and the other half would be like, that’s gotta be Gowanus. You know, we figure that our front door is across the street from a tire shop and a bodega, so that’s pretty much Gowanus. But right around the corner on our street here there’s all brownstones, and people with little gardens and stuff. And that’s as Park Slope as it gets. So it is kind of interesting to very much ride the line on it.

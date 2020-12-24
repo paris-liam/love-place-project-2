@@ -2,10 +2,20 @@
 title: On Reciprocity with the Earth
 subject: Jill in Waterbury, Connecticut
 image: /static/img/jill-photo.jpg
+hook: "*Jill is the co-founder, along with her partner Will, of [Hungry Reaper
+  Farm](https://www.hungryreaperfarm.com/) in Morris, CT. Hungry Reaper strives
+  to provide organic, local food in a manner that is beneficial to our soil,
+  water, air, and people. Jill is also an avid painter and baker!*"
+byLine: Interview conducted by AJ, 7/20/20
 date: 2020-07-31T18:03:58.096Z
+tags:
+  - Environmental Justice
+  - Farming + Care for Land
+  - Local Food + Drink
+  - Racial Geographies
+  - Small Business
+  - Northeastern U.S.
 ---
-*Jill is the co-founder, along with her partner Will, of [Hungry Reaper Farm](https://www.hungryreaperfarm.com/) in Morris, CT. Hungry Reaper strives to provide organic, local food in a manner that is beneficial to our soil, water, air, and people. Jill is also an avid painter and baker!*
-
 <div>✷</div>
 
 *Thanks for taking the time to chat, Jill! Want to start off by telling me a bit about how Hungry Reaper came to be?*

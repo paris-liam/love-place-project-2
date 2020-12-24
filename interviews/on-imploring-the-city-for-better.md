@@ -2,13 +2,20 @@
 title: On Imploring the City for Better
 subject: Daytrian in New Orleans East
 image: /static/img/union-photo.jpeg
+hook: "*Day is a representative of the City Waste Union, a group of sanitation
+  workers in New Orleans that are currently on strike and seeking better pay and
+  working conditions, including proper PPE.*"
+byLine: Interview conducted by AJ, 6/13/20
 date: 2020-06-16T16:29:26.036Z
+tags:
+  - Community Organizing
+  - Racial Geographies
+  - Non-Profit Organizations
+  - Southern U.S.
 ---
-*Day is a representative of the City Waste Union, a group of sanitation workers in New Orleans that are currently on strike and seeking better pay and working conditions, including proper PPE.*
+<div>✷</div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/841279768&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/place-love-project" title="Place/Love Project" target="_blank" style="color: #cccccc; text-decoration: none;">Place/Love Project</a> · <a href="https://soundcloud.com/place-love-project/citywasteunion" title="City Waste Union" target="_blank" style="color: #cccccc; text-decoration: none;">City Waste Union</a></div>
-
-<div>✷</div>
 
 *So I’d love to start by talking a little bit about the strike in general: what y’all are fighting for, what you hope to achieve?*
 

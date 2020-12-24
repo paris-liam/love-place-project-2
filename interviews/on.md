@@ -2,12 +2,24 @@
 title: On Not Just Selling Stuff
 subject: Anthony in Parkchester, the Bronx
 image: /static/img/anthony-ramirez-ii.jpg
+hook: >-
+  *Anthony is the co-founder, owner, and operator of several Bronx-based
+  businesses, including the [Bronx Beer
+  Hall](https://www.thebronxbeerhall.com/), [From the
+  Bronx](https://www.fromthebronx.com/), [Taste of the
+  Bronx](https://tasteofthebronx.com/), and [Mainland
+  Media](https://mainlandmedia.net/).*
+
+
+  *As is clear from the names, all of Anthony’s initiatives share a mission to uplift the Bronx community by remaining locally-focused and inclusive, and to create positive images of the Bronx.*
+byLine: Interview conducted by AJ, 7/2/20
 date: 2020-07-21T19:09:42.157Z
+tags:
+  - Small Business
+  - Local Food + Drink
+  - Neighborhoods
+  - Northeastern U.S.
 ---
-*Anthony is the co-founder, owner, and operator of several Bronx-based businesses, including the [Bronx Beer Hall](https://www.thebronxbeerhall.com/), [From the Bronx](https://www.fromthebronx.com/), [Taste of the Bronx](https://tasteofthebronx.com/), and [Mainland Media](https://mainlandmedia.net/).*
-
-*As is clear from the names, all of Anthony’s initiatives share a mission to uplift the Bronx community by remaining locally-focused and inclusive, and to create positive images of the Bronx.*
-
 <div>✷</div>
 
 *To start, I’d love to know a little bit more about you and your story: where it all started, where it is now?*

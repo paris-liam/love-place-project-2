@@ -11,7 +11,9 @@ hook: "*Debbie is the creator of
 byLine: Interview conducted by AJ, 7/29/20
 date: 2020-08-19T20:28:09.833Z
 tags:
-  - Environmental Justice
+  - Outdoor Spaces + Wilderness
+  - Racial Geographies
+  - Non-Profit Organizations
   - Midwestern U.S.
 ---
 <div>✷</div>

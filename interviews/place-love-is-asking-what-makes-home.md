@@ -2,14 +2,26 @@
 title: On Homes, Both New and Old
 subject: Clare in East Harlem, New York City
 image: /static/img/clare-d-photo.jpg
+hook: >-
+  *I spent part of the summer of 2019 living and working in Oakland, California.
+  Before leaving the East Coast, I reached out to a friend of mine for her
+  recommendations: Clare now lives in East Harlem, but grew up in Oakland. She
+  introduced me to the Lake Merritt neighborhood where her family lives,
+  including my all-time favorite farmer’s market and the historic Grand Lake
+  Theater.*
+
+
+  *Many months later, Clare and I sat down at a bar in Upper Manhattan to have the conversation written out here. Clare had a lot to say about one word in particular: home. ‘Home,’ as a feeling, shows just how deeply physical space can be related to our inner lives. So powerful is the connection that we can describe somebody as ‘homesick’ - we can crave a familiar Place so much that we liken it to a physical ailment. Given the significance, I thought about what it meant for Clare to have shared her home, Oakland, with me that summer. Home is a Place, but it is also a deeply personal gut feeling, and therefore takes a level of trust and vulnerability to allow an outsider to experience it too. (Accordingly, I tried to treat Clare’s recommended spots with the deserved appreciation).*
+
+
+  *As I look back over our conversation now, I find myself thinking also about how political the right to ‘home’ is. Clare works with migrant families (and did so in Austin as well before moving to NYC) - people who are separated from home by violence or economics, forces outside their control. Similarly, as newcomers to our respective neighborhoods, we chatted a lot about gentrification, trying always to remain conscious that these spaces have been somebody else’s home long before they became ours as well. It seems unjust that some, like Clare and I, are able to maintain claims to both new homes and old, while others don’t get that luxury, due to myriad factors like urban displacement and violence. The interview text picks up somewhere in that messy line of thought, trying to parse out how to care for both new homes and old:*
+byLine: Interview conducted by AJ, 1/22/20
 date: 2020-04-29T01:57:22.602Z
+tags:
+  - Cities + Urban Spaces
+  - Neighborhoods
+  - Northeastern U.S.
 ---
-*I spent part of the summer of 2019 living and working in Oakland, California. Before leaving the East Coast, I reached out to a friend of mine for her recommendations: Clare now lives in East Harlem, but grew up in Oakland. She introduced me to the Lake Merritt neighborhood where her family lives, including my all-time favorite farmer’s market and the historic Grand Lake Theater.*
-
-*Many months later, Clare and I sat down at a bar in Upper Manhattan to have the conversation written out here. Clare had a lot to say about one word in particular: home. ‘Home,’ as a feeling, shows just how deeply physical space can be related to our inner lives. So powerful is the connection that we can describe somebody as ‘homesick’ - we can crave a familiar Place so much that we liken it to a physical ailment. Given the significance, I thought about what it meant for Clare to have shared her home, Oakland, with me that summer. Home is a Place, but it is also a deeply personal gut feeling, and therefore takes a level of trust and vulnerability to allow an outsider to experience it too. (Accordingly, I tried to treat Clare’s recommended spots with the deserved appreciation).*
-
-*As I look back over our conversation now, I find myself thinking also about how political the right to ‘home’ is. Clare works with migrant families (and did so in Austin as well before moving to NYC) - people who are separated from home by violence or economics, forces outside their control. Similarly, as newcomers to our respective neighborhoods, we chatted a lot about gentrification, trying always to remain conscious that these spaces have been somebody else’s home long before they became ours as well. It seems unjust that some, like Clare and I, are able to maintain claims to both new homes and old, while others don’t get that luxury, due to myriad factors like urban displacement and violence. The interview text picks up somewhere in that messy line of thought, trying to parse out how to care for both new homes and old:*
-
 <div>✷</div>
 
 Living in East Harlem, I feel like I have this urge to be involved in my community in some way, if I’m going to be living there as someone who’s not from there. At Fordham \[University], I had a desire to look for places to volunteer in the Bronx where I felt like I was participating in and giving back to a community that it felt like I was trespassing in at times. And in East Harlem, it feels like I haven’t really done that, I think in part because I’m already a little overwhelmed by my work emotionally and drained by it so I feel like I can’t do an outside volunteer thing. But I took salsa classes in East Harlem for like six or seven months and that felt so awesome. I was like, this feels like such a fun way to engage in this community. It doesn’t always have to be volunteering. I think that’s kind of a bad way to think about it, too. Like, oh, I need to volunteer in this community. I think that has certain bad savior connotations too, so it was cool to be taking a salsa class in the community I lived in, and meeting people who also walked a few blocks to the studio. That was so awesome.

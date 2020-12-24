@@ -2,10 +2,25 @@
 title: On Harlem as Cultural History
 subject: Josh in Harlem, New York City
 image: /static/img/ramos-photo.png
+hook: "*Josh is a writer, performer, and educator. Co-showrunner of the therapy
+  themed improv & stand up live show ‘Do You Wanna Talk About it?’ as well as
+  the co-host of the Black Irish Comedy Show, the first monthly comedy residency
+  at Brooklyn Brewery, his
+  [writings](https://grandmasophiascookies.com/author/jramos32/) can also be
+  found on the music and culture blog [Grandma Sophia’s
+  Cookies](https://grandmasophiascookies.com/). You can follow his strange
+  lifestyle on [Twitter](https://twitter.com/joshstamos_) and
+  [Instagram](https://www.instagram.com/joshstamos_/?hl=en).*"
+byLine: Interview conducted by AJ, 6/12/20
 date: 2020-06-25T15:10:08.367Z
+tags:
+  - Neighborhoods
+  - Art, Music, Culture
+  - Local Food + Drink
+  - Cities + Urban Spaces
+  - Racial Geographies
+  - Northeastern U.S.
 ---
-*Josh is a writer, performer, and educator. Co-showrunner of the therapy themed improv & stand up live show ‘Do You Wanna Talk About it?’ as well as the co-host of the Black Irish Comedy Show, the first monthly comedy residency at Brooklyn Brewery, his [writings](https://grandmasophiascookies.com/author/jramos32/) can also be found on the music and culture blog [Grandma Sophia’s Cookies](https://grandmasophiascookies.com/). You can follow his strange lifestyle on [Twitter](https://twitter.com/joshstamos_) and [Instagram](https://www.instagram.com/joshstamos_/?hl=en).*
-
 <div>✷</div>
 
 I live in the Dunbar apartments in like North Central Harlem. I used to live on 127th and Lenox, which was cool. It’s very poppin’ over there by 125th, a lot of cool restaurants, [Corner Social](https://cornersocialnyc.com/), [Sylvia’s](http://sylviasrestaurant.com/), [Cantina](https://www.cantinany.com/). But now I live on 150th and it’s more residential. There’s no main train right there so it’s more calm, which I really like - I didn’t really like the hustle and bustle of 127th all that much. But I like 150th and Frederick Douglass. Dunbar is cool, it’s a very old-school community. It’s half gentrification and half older folks, which has been interesting now during COVID as mutual aid societies are going about that. It’s my third year there and a lot of the new people don’t really interact with the older folk, but now we are, which is nice and it’s created a much nicer sense of community.
