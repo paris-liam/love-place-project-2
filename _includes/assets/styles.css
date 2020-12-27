@@ -30,13 +30,25 @@ footer div a[href]:hover {
 }
 main.about-page img {
   width: 80%;
-  margin: auto;
   display: block;
+  margin: calc(30px * 3) auto;
+}
+main.about-page img.collage-photo {
+  margin-bottom: 0px;
 }
 
-.bio-title {
+.bio-title, a[href].bio-title {
   font-weight: bold;
   text-decoration: underline;
+  color: var(--six);
+}
+
+.image-small-text {
+  width: 80%;
+  margin: auto;
+  margin-top: 1em;
+  margin-bottom: calc(30px * 3);
+  font-size: 0.75em;
 }
 
 .creator-container {
@@ -54,6 +66,7 @@ main.about-page img {
 
 h1, h2 {
   font-size: 2.25em;
+  margin-bottom: calc(30px * 2);
 }
 
 p {
