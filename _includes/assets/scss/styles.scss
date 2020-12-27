@@ -1,5 +1,5 @@
 @import '_footer.scss';
-
+@import '_about.scss';
 :root {
 	--one: rgb(201,107,60);
 	--two: rgb(240,168,112);
@@ -23,27 +23,17 @@ body {
 }
 
 body {
-	display: grid;
-	height: 100vh;
-	grid-template-rows: auto 1fr auto;
 	background-color: var(--two);
 }
 
 main {
 	padding: 1em 4%;
-	max-width: 100%;
-}
-
-main.about-page {
-	margin-left: 5vw;
-}
-
-main.about-page img {
-	width: 100%;
-	max-width: 1200px;
 	margin: auto;
-	display: block;
+    max-width: 1200px;
 }
+
+
+
 
 main.manifesto-page iframe {
 	width: 80%;
@@ -70,6 +60,8 @@ a[href]:not(:hover) {
 
 header {
 	padding: 1em;
+	max-width: 1400px;
+	margin: auto;
 }
 
 main {
@@ -386,9 +378,6 @@ article.post-body > p > img{
 	:root {
 		font-size: 1.1rem;
 	}	
-	main {
-		max-width: 1800px;
-	}
 }
 
 

@@ -1,0 +1,47 @@
+main.about-page {
+    img {
+        width: 80%;
+        margin: auto;
+        display: block;
+    }
+}
+
+.bio-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.creator-container {
+    display: flex;
+    justify-content: space-between;
+    .creator {
+        
+        margin: 0 2em;
+
+        img{ 
+            width: 60%;
+            max-width: 400px;
+            margin: 0;
+        }
+    }
+}
+
+h1, h2 {
+    font-size: 2.25em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+@media screen and (max-width: 801px) {
+
+    .creator-container {
+        flex-direction: column;
+
+        .creator {
+            width: 80%;
+            margin: auto;
+        }
+    }
+}

@@ -28,6 +28,47 @@ footer div a[href]:hover {
     flex-direction: column;
   }
 }
+main.about-page img {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.bio-title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.creator-container {
+  display: flex;
+  justify-content: space-between;
+}
+.creator-container .creator {
+  margin: 0 2em;
+}
+.creator-container .creator img {
+  width: 60%;
+  max-width: 400px;
+  margin: 0;
+}
+
+h1, h2 {
+  font-size: 2.25em;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+@media screen and (max-width: 801px) {
+  .creator-container {
+    flex-direction: column;
+  }
+  .creator-container .creator {
+    width: 80%;
+    margin: auto;
+  }
+}
 :root {
   --one: rgb(201,107,60);
   --two: rgb(240,168,112);
@@ -50,26 +91,13 @@ body {
 }
 
 body {
-  display: grid;
-  height: 100vh;
-  grid-template-rows: auto 1fr auto;
   background-color: var(--two);
 }
 
 main {
   padding: 1em 4%;
-  max-width: 100%;
-}
-
-main.about-page {
-  margin-left: 5vw;
-}
-
-main.about-page img {
-  width: 100%;
-  max-width: 1200px;
   margin: auto;
-  display: block;
+  max-width: 1200px;
 }
 
 main.manifesto-page iframe {
@@ -97,6 +125,8 @@ a[href]:not(:hover) {
 
 header {
   padding: 1em;
+  max-width: 1400px;
+  margin: auto;
 }
 
 main {
@@ -412,10 +442,6 @@ article.post-body > p > img {
 @media screen and (min-width: 801px) {
   :root {
     font-size: 1.1rem;
-  }
-
-  main {
-    max-width: 1800px;
   }
 }
 @media screen and (min-width: 1200px) {
