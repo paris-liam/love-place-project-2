@@ -14,7 +14,7 @@ main.about-page {
 
 
 
-.bio-title, a[href].bio-title {
+.bio-title, a[href].bio-title, a[href].bio-title:visited {
     font-weight: bold;
     text-decoration: underline;
     color: var(--six);
