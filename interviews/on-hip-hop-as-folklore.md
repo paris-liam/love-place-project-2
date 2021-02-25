@@ -21,7 +21,7 @@ hook: >-
 
 
   Photo credit: Francisco Molina Reyes II
-byLine: Interview conducted by Ava, 2/4/21
+byLine: Interview conducted by Ava, 2/8/21
 date: 2021-02-24T22:59:51.421Z
 tags:
   - Art, Music, Culture
@@ -70,3 +70,9 @@ One of the things I would say: I feel very lucky to work in a job where I get pa
 Well the reason we started - Bobby \[Sanabria, co-director of the Bronx Music Heritage Center] and I are Puerto Rican, so a lot of the work that we do \[at BMHC] focuses on the Puerto Rican and Latino communities in the Bronx. But I started working with the Garifuna community through some poetry programs at City Lore. The Garifuna community is large in the Bronx; it's an Afro-Latino community from Belize, Honduras, and Guatemala. They're not known all the time; they sometimes are invisible almost because they're an Afro-Latino community but they speak the Garifuna language also, so people don't always understand who they are. The \[Parranda con Paranda] event started because we were at this Garifuna concert at Hostos \[Community College] and listening to their drums, Bobby was like, “That rhythm they're playing right now sounds just like our bomba holándes from Puerto Rico!” We realized that we have these similarities in the music and we're both big communities here in the Bronx, the Puerto Ricans and Garifuna. So that's why we started doing the Parranda con Paranda every year with community organizers. And then, sometimes for the events, we've expanded. We'd have like, a Dominican component of the concert too because they have a similar thing, or one time we had a Jamaican component because they had the similar masked dance tradition. It's nice because we always have a lot of musicians, and it's around the holidays too. By the end of the year everyone's just ready to sort of have fun, celebrate. I always call it a joyous event. You know, you don't use that word to describe just anything. You may say I had fun or had a good time, but this was actually joyous. And other musicians there told me that they look forward to this event every year because it's really joyous. And so, hopefully that's what we're doing. Hopefully that's the work that we're bringing from BMHC to the community, and hopefully we can continue doing that.
 
 *I actually lived near some Garifuna communities in southern Belize for a few years and just loved everything about the Garifuna culture, their music and language and food. So I was excited when I found out about BMHC’s Parranda con Paranda. And as somebody who attended one of the events, I can attest that it was a very joyous occasion! Because of the music, but also because of the joyous energy of everyone there, appreciating each other's traditions and then the coming together for a collaborative jam session at the end. Thanks so much for sharing and for all you do to amplify these traditions, Elena!*
+
+<div>✷</div>
+
+*Questions for Reflection: What are the folk, or grassroots, cultures of your communities? Are there forms of folklore, present or past, that you haven't considered before?*
+
+*If you'd like to keep up with all that we're up to here at Place/Love, you can sign up for our mailing list by clicking [here](https://placeloveproject.substack.com/welcome)!*
