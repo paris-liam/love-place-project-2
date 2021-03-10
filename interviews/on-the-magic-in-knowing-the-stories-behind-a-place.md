@@ -57,6 +57,6 @@ Support the institutions that support you, just like you would support the frien
 
 <div>✷</div>
 
-*Questions for Reflection: Have you ever walked through your neighborhood and that about all the past lives it’s held? How might you learn more about the histories and stories of your street or block?*
+*Questions for Reflection: Have you ever walked through your neighborhood and thought about all the past lives it’s held? How might you learn more about the histories and stories of your street or block?*
 
 *The best way to keep up the Place/Love Project, is to sign up for our mailing list by clicking [here](https://placeloveproject.substack.com/welcome)! Thank you as always for reading.*
